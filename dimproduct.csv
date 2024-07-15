@@ -1,0 +1,1819 @@
+ProductKey,ProductSubcategoryKey,Product_name,ListPrice,StartDate,EndDate,Color,Size,Status
+405,4,ML Road Handlebars,$56.29 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+406,4,ML Road Handlebars,$61.92 ,7/1/2007,NULL,NA,NULL,Current
+407,4,HL Road Handlebars,$109.34 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+408,4,HL Road Handlebars,$120.27 ,7/1/2007,NULL,NA,NULL,Current
+409,12,"ML Mountain Frame - Black, 38",$348.76 ,7/1/2006,30-Jun-03,Black,38,NULL
+410,17,LL Mountain Front Wheel,$60.75 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+411,17,ML Mountain Front Wheel,$209.03 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+412,17,HL Mountain Front Wheel,$300.22 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+413,17,LL Road Front Wheel,$85.57 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+414,17,ML Road Front Wheel,$248.39 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+415,17,HL Road Front Wheel,$330.06 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+416,17,Touring Front Wheel,$218.01 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+417,14,"ML Road Frame-W - Yellow, 38",$540.75 ,7/1/2006,30-Jun-03,Yellow,38,NULL
+418,14,"ML Road Frame-W - Yellow, 38",$594.83 ,7/1/2007,NULL,Yellow,38,Current
+419,17,LL Mountain Rear Wheel,$87.75 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+420,17,ML Mountain Rear Wheel,$236.03 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+421,17,HL Mountain Rear Wheel,$327.22 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+422,17,LL Road Rear Wheel,$112.57 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+423,17,ML Road Rear Wheel,$275.39 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+424,17,HL Road Rear Wheel,$357.06 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+425,17,Touring Rear Wheel,$245.01 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+426,12,"ML Mountain Frame - Black, 40",$348.76 ,7/1/2006,30-Jun-03,Black,40,NULL
+427,12,"ML Mountain Frame - Black, 44",$348.76 ,7/1/2006,30-Jun-03,Black,44,NULL
+428,12,"ML Mountain Frame - Black, 48",$348.76 ,7/1/2006,30-Jun-03,Black,48,NULL
+429,14,"ML Road Frame-W - Yellow, 40",$540.75 ,7/1/2006,30-Jun-03,Yellow,40,NULL
+430,14,"ML Road Frame-W - Yellow, 40",$594.83 ,7/1/2007,NULL,Yellow,40,Current
+431,14,"ML Road Frame-W - Yellow, 42",$540.75 ,7/1/2006,30-Jun-03,Yellow,42,NULL
+432,14,"ML Road Frame-W - Yellow, 42",$594.83 ,7/1/2007,NULL,Yellow,42,Current
+433,14,"ML Road Frame-W - Yellow, 44",$540.75 ,7/1/2006,30-Jun-03,Yellow,44,NULL
+434,14,"ML Road Frame-W - Yellow, 44",$594.83 ,7/1/2007,NULL,Yellow,44,Current
+435,14,"ML Road Frame-W - Yellow, 48",$540.75 ,7/1/2006,30-Jun-03,Yellow,48,NULL
+436,14,"ML Road Frame-W - Yellow, 48",$594.83 ,7/1/2007,NULL,Yellow,48,Current
+437,14,"HL Road Frame - Black, 62","$1,301.36 ",7/1/2006,30-Jun-03,Black,62,NULL
+438,14,"HL Road Frame - Black, 62","$1,431.50 ",7/1/2007,NULL,Black,62,Current
+439,14,"HL Road Frame - Black, 44","$1,301.36 ",7/1/2006,30-Jun-03,Black,44,NULL
+440,14,"HL Road Frame - Black, 44","$1,431.50 ",7/1/2007,NULL,Black,44,Current
+441,14,"HL Road Frame - Black, 48","$1,301.36 ",7/1/2006,30-Jun-03,Black,48,NULL
+442,14,"HL Road Frame - Black, 48","$1,431.50 ",7/1/2007,NULL,Black,48,Current
+443,14,"HL Road Frame - Black, 52","$1,301.36 ",7/1/2006,30-Jun-03,Black,52,NULL
+444,14,"HL Road Frame - Black, 52","$1,431.50 ",7/1/2007,NULL,Black,52,Current
+445,22,"Men's Sports Shorts, S",$59.99 ,7/1/2006,30-Jun-03,Black,S,NULL
+446,35,"Touring-Panniers, Large",$125.00 ,7/1/2006,30-Jun-03,Grey,NULL,NULL
+447,34,Cable Lock,$25.00 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+448,36,Minipump,$19.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+449,36,Mountain Pump,$24.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+450,33,Taillights - Battery-Powered,$13.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+451,33,Headlights - Dual-Beam,$34.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+452,33,Headlights - Weatherproof,$44.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+453,22,"Men's Sports Shorts, M",$59.99 ,7/1/2006,30-Jun-03,Black,M,NULL
+454,22,"Men's Sports Shorts, L",$59.99 ,7/1/2006,30-Jun-03,Black,L,NULL
+455,22,"Men's Sports Shorts, XL",$59.99 ,7/1/2006,30-Jun-03,Black,XL,NULL
+456,24,"Women's Tights, S",$74.99 ,7/1/2006,30-Jun-03,Black,S,NULL
+457,24,"Women's Tights, M",$74.99 ,7/1/2006,30-Jun-03,Black,M,NULL
+458,24,"Women's Tights, L",$74.99 ,7/1/2006,30-Jun-03,Black,L,NULL
+459,18,"Men's Bib-Shorts, S",$89.99 ,7/1/2006,30-Jun-03,Multi,S,NULL
+460,18,"Men's Bib-Shorts, M",$89.99 ,7/1/2006,30-Jun-03,Multi,M,NULL
+461,18,"Men's Bib-Shorts, L",$89.99 ,7/1/2006,30-Jun-03,Multi,L,NULL
+462,20,"Half-Finger Gloves, S",$23.55 ,7/1/2006,30-Jun-03,Black,S,NULL
+463,20,"Half-Finger Gloves, S",$24.49 ,7/1/2007,NULL,Black,S,Current
+464,20,"Half-Finger Gloves, M",$23.55 ,7/1/2006,30-Jun-03,Black,M,NULL
+465,20,"Half-Finger Gloves, M",$24.49 ,7/1/2007,NULL,Black,M,Current
+466,20,"Half-Finger Gloves, L",$23.55 ,7/1/2006,30-Jun-03,Black,L,NULL
+467,20,"Half-Finger Gloves, L",$24.49 ,7/1/2007,NULL,Black,L,Current
+468,20,"Full-Finger Gloves, S",$37.99 ,7/1/2006,30-Jun-03,Black,S,NULL
+469,20,"Full-Finger Gloves, M",$37.99 ,7/1/2006,30-Jun-03,Black,M,NULL
+470,20,"Full-Finger Gloves, L",$37.99 ,7/1/2006,30-Jun-03,Black,L,NULL
+471,25,"Classic Vest, S",$63.50 ,7/1/2007,NULL,Blue,S,Current
+472,25,"Classic Vest, M",$63.50 ,7/1/2007,NULL,Blue,M,Current
+473,25,"Classic Vest, L",$63.50 ,7/1/2007,NULL,Blue,L,Current
+474,22,"Women's Mountain Shorts, S",$69.99 ,7/1/2007,NULL,Black,S,Current
+475,22,"Women's Mountain Shorts, M",$69.99 ,7/1/2007,NULL,Black,M,Current
+476,22,"Women's Mountain Shorts, L",$69.99 ,7/1/2007,NULL,Black,L,Current
+477,28,Water Bottle - 30 oz.,$4.99 ,7/1/2007,NULL,NA,NULL,Current
+478,28,Mountain Bottle Cage,$9.99 ,7/1/2007,NULL,NA,NULL,Current
+479,28,Road Bottle Cage,$8.99 ,7/1/2007,NULL,NA,NULL,Current
+480,37,Patch Kit/8 Patches,$2.29 ,7/1/2007,NULL,NA,NULL,Current
+481,23,"Racing Socks, M",$8.99 ,7/1/2007,NULL,White,M,Current
+482,23,"Racing Socks, L",$8.99 ,7/1/2007,NULL,White,L,Current
+483,26,Hitch Rack - 4-Bike,$120.00 ,7/1/2007,NULL,NA,NULL,Current
+484,29,Bike Wash - Dissolver,$7.95 ,7/1/2007,NULL,NA,NULL,Current
+485,30,Fender Set - Mountain,$21.98 ,7/1/2007,NULL,NA,NULL,Current
+486,27,All-Purpose Bike Stand,$159.00 ,7/1/2007,NULL,NA,NULL,Current
+487,32,Hydration Pack - 70 oz.,$54.99 ,7/1/2007,NULL,Silver,70,Current
+488,21,"Short-Sleeve Classic Jersey, S",$53.99 ,7/1/2007,NULL,Yellow,S,Current
+489,21,"Short-Sleeve Classic Jersey, M",$53.99 ,7/1/2007,NULL,Yellow,M,Current
+490,21,"Short-Sleeve Classic Jersey, L",$53.99 ,7/1/2007,NULL,Yellow,L,Current
+491,21,"Short-Sleeve Classic Jersey, XL",$53.99 ,7/1/2007,NULL,Yellow,XL,Current
+492,16,"HL Touring Frame - Yellow, 60","$1,003.91 ",7/1/2007,NULL,Yellow,60,Current
+493,16,"LL Touring Frame - Yellow, 62",$333.42 ,7/1/2007,NULL,Yellow,62,Current
+494,16,"HL Touring Frame - Yellow, 46","$1,003.91 ",7/1/2007,NULL,Yellow,46,Current
+495,16,"HL Touring Frame - Yellow, 50","$1,003.91 ",7/1/2007,NULL,Yellow,50,Current
+496,16,"HL Touring Frame - Yellow, 54","$1,003.91 ",7/1/2007,NULL,Yellow,54,Current
+497,16,"HL Touring Frame - Blue, 46","$1,003.91 ",7/1/2007,NULL,Blue,46,Current
+498,16,"HL Touring Frame - Blue, 50","$1,003.91 ",7/1/2007,NULL,Blue,50,Current
+499,16,"HL Touring Frame - Blue, 54","$1,003.91 ",7/1/2007,NULL,Blue,54,Current
+500,16,"HL Touring Frame - Blue, 60","$1,003.91 ",7/1/2007,NULL,Blue,60,Current
+501,9,Rear Derailleur,$121.46 ,7/1/2007,NULL,Silver,NULL,Current
+502,16,"LL Touring Frame - Blue, 50",$333.42 ,7/1/2007,NULL,Blue,50,Current
+503,16,"LL Touring Frame - Blue, 54",$333.42 ,7/1/2007,NULL,Blue,54,Current
+504,16,"LL Touring Frame - Blue, 58",$333.42 ,7/1/2007,NULL,Blue,58,Current
+505,16,"LL Touring Frame - Blue, 62",$333.42 ,7/1/2007,NULL,Blue,62,Current
+506,16,"LL Touring Frame - Yellow, 44",$333.42 ,7/1/2007,NULL,Yellow,44,Current
+507,16,"LL Touring Frame - Yellow, 50",$333.42 ,7/1/2007,NULL,Yellow,50,Current
+508,16,"LL Touring Frame - Yellow, 54",$333.42 ,7/1/2007,NULL,Yellow,54,Current
+509,16,"LL Touring Frame - Yellow, 58",$333.42 ,7/1/2007,NULL,Yellow,58,Current
+510,16,"LL Touring Frame - Blue, 44",$333.42 ,7/1/2007,NULL,Blue,44,Current
+511,12,"ML Mountain Frame-W - Silver, 40",$364.09 ,7/1/2007,NULL,Silver,40,Current
+512,12,"ML Mountain Frame-W - Silver, 42",$364.09 ,7/1/2007,NULL,Silver,42,Current
+513,12,"ML Mountain Frame-W - Silver, 46",$364.09 ,7/1/2007,NULL,Silver,46,Current
+514,6,Rear Brakes,$106.50 ,7/1/2007,NULL,Silver,NULL,Current
+515,15,LL Mountain Seat/Saddle,$27.12 ,7/1/2007,NULL,NA,NULL,Current
+516,15,ML Mountain Seat/Saddle,$39.14 ,7/1/2007,NULL,NA,NULL,Current
+517,15,HL Mountain Seat/Saddle,$52.64 ,7/1/2007,NULL,NA,NULL,Current
+518,15,LL Road Seat/Saddle,$27.12 ,7/1/2007,NULL,NA,NULL,Current
+519,15,ML Road Seat/Saddle,$39.14 ,7/1/2007,NULL,NA,NULL,Current
+520,15,HL Road Seat/Saddle,$52.64 ,7/1/2007,NULL,NA,NULL,Current
+521,15,LL Touring Seat/Saddle,$27.12 ,7/1/2007,NULL,NA,NULL,Current
+522,15,ML Touring Seat/Saddle,$39.14 ,7/1/2007,NULL,NA,NULL,Current
+523,15,HL Touring Seat/Saddle,$52.64 ,7/1/2007,NULL,NA,NULL,Current
+524,12,"LL Mountain Frame - Silver, 42",$264.05 ,7/1/2007,NULL,Silver,42,Current
+525,12,"LL Mountain Frame - Silver, 44",$264.05 ,7/1/2007,NULL,Silver,44,Current
+526,12,"LL Mountain Frame - Silver, 48",$264.05 ,7/1/2007,NULL,Silver,48,Current
+527,12,"LL Mountain Frame - Silver, 52",$264.05 ,7/1/2007,NULL,Silver,52,Current
+528,37,Mountain Tire Tube,$4.99 ,7/1/2007,NULL,NA,NULL,Current
+529,37,Road Tire Tube,$3.99 ,7/1/2007,NULL,NA,NULL,Current
+530,37,Touring Tire Tube,$4.99 ,7/1/2007,NULL,NA,NULL,Current
+531,12,"LL Mountain Frame - Black, 42",$249.79 ,7/1/2007,NULL,Black,42,Current
+532,12,"LL Mountain Frame - Black, 44",$249.79 ,7/1/2007,NULL,Black,44,Current
+533,12,"LL Mountain Frame - Black, 48",$249.79 ,7/1/2007,NULL,Black,48,Current
+534,12,"LL Mountain Frame - Black, 52",$249.79 ,7/1/2007,NULL,Black,52,Current
+535,37,LL Mountain Tire,$24.99 ,7/1/2007,NULL,NA,NULL,Current
+536,37,ML Mountain Tire,$29.99 ,7/1/2007,NULL,NA,NULL,Current
+537,37,HL Mountain Tire,$35.00 ,7/1/2007,NULL,NA,NULL,Current
+538,37,LL Road Tire,$21.49 ,7/1/2007,NULL,NA,NULL,Current
+539,37,ML Road Tire,$24.99 ,7/1/2007,NULL,NA,NULL,Current
+540,37,HL Road Tire,$32.60 ,7/1/2007,NULL,NA,NULL,Current
+541,37,Touring Tire,$28.99 ,7/1/2007,NULL,NA,NULL,Current
+542,13,LL Mountain Pedal,$40.49 ,7/1/2007,NULL,Silver/Black,NULL,Current
+543,13,ML Mountain Pedal,$62.09 ,7/1/2007,NULL,Silver/Black,NULL,Current
+544,13,HL Mountain Pedal,$80.99 ,7/1/2007,NULL,Silver/Black,NULL,Current
+545,13,LL Road Pedal,$40.49 ,7/1/2007,NULL,Silver/Black,NULL,Current
+546,13,ML Road Pedal,$62.09 ,7/1/2007,NULL,Silver/Black,NULL,Current
+547,13,HL Road Pedal,$80.99 ,7/1/2007,NULL,Silver/Black,NULL,Current
+548,13,Touring Pedal,$80.99 ,7/1/2007,NULL,Silver/Black,NULL,Current
+549,12,"ML Mountain Frame-W - Silver, 38",$364.09 ,7/1/2007,NULL,Silver,38,Current
+550,12,"LL Mountain Frame - Black, 40",$249.79 ,7/1/2007,NULL,Black,40,Current
+551,12,"LL Mountain Frame - Silver, 40",$264.05 ,7/1/2007,NULL,Silver,40,Current
+552,9,Front Derailleur,$91.49 ,7/1/2007,NULL,Silver,NULL,Current
+553,4,LL Touring Handlebars,$46.09 ,7/1/2007,NULL,NA,NULL,Current
+554,4,HL Touring Handlebars,$91.57 ,7/1/2007,NULL,NA,NULL,Current
+555,6,Front Brakes,$106.50 ,7/1/2007,NULL,Silver,NULL,Current
+556,8,LL Crankset,$175.49 ,7/1/2007,NULL,Black,NULL,Current
+557,8,ML Crankset,$256.49 ,7/1/2007,NULL,Black,NULL,Current
+558,8,HL Crankset,$404.99 ,7/1/2007,NULL,Black,NULL,Current
+559,7,Chain,$20.24 ,7/1/2007,NULL,Silver,NULL,Current
+560,3,"Touring-2000 Blue, 60","$1,214.85 ",7/1/2007,NULL,Blue,60,Current
+561,3,"Touring-1000 Yellow, 46","$2,384.07 ",7/1/2007,NULL,Yellow,46,Current
+562,3,"Touring-1000 Yellow, 50","$2,384.07 ",7/1/2007,NULL,Yellow,50,Current
+563,3,"Touring-1000 Yellow, 54","$2,384.07 ",7/1/2007,NULL,Yellow,54,Current
+564,3,"Touring-1000 Yellow, 60","$2,384.07 ",7/1/2007,NULL,Yellow,60,Current
+565,3,"Touring-3000 Blue, 54",$742.35 ,7/1/2007,NULL,Blue,54,Current
+566,3,"Touring-3000 Blue, 58",$742.35 ,7/1/2007,NULL,Blue,58,Current
+567,3,"Touring-3000 Blue, 62",$742.35 ,7/1/2007,NULL,Blue,62,Current
+568,3,"Touring-3000 Yellow, 44",$742.35 ,7/1/2007,NULL,Yellow,44,Current
+569,3,"Touring-3000 Yellow, 50",$742.35 ,7/1/2007,NULL,Yellow,50,Current
+570,3,"Touring-3000 Yellow, 54",$742.35 ,7/1/2007,NULL,Yellow,54,Current
+571,3,"Touring-3000 Yellow, 58",$742.35 ,7/1/2007,NULL,Yellow,58,Current
+572,3,"Touring-3000 Yellow, 62",$742.35 ,7/1/2007,NULL,Yellow,62,Current
+573,3,"Touring-1000 Blue, 46","$2,384.07 ",7/1/2007,NULL,Blue,46,Current
+574,3,"Touring-1000 Blue, 50","$2,384.07 ",7/1/2007,NULL,Blue,50,Current
+575,3,"Touring-1000 Blue, 54","$2,384.07 ",7/1/2007,NULL,Blue,54,Current
+576,3,"Touring-1000 Blue, 60","$2,384.07 ",7/1/2007,NULL,Blue,60,Current
+577,3,"Touring-2000 Blue, 46","$1,214.85 ",7/1/2007,NULL,Blue,46,Current
+578,3,"Touring-2000 Blue, 50","$1,214.85 ",7/1/2007,NULL,Blue,50,Current
+579,3,"Touring-2000 Blue, 54","$1,214.85 ",7/1/2007,NULL,Blue,54,Current
+580,2,"Road-350-W Yellow, 40","$1,700.99 ",7/1/2007,NULL,Yellow,40,Current
+581,2,"Road-350-W Yellow, 42","$1,700.99 ",7/1/2007,NULL,Yellow,42,Current
+582,2,"Road-350-W Yellow, 44","$1,700.99 ",7/1/2007,NULL,Yellow,44,Current
+583,2,"Road-350-W Yellow, 48","$1,700.99 ",7/1/2007,NULL,Yellow,48,Current
+584,2,"Road-750 Black, 58",$539.99 ,7/1/2007,NULL,Black,58,Current
+585,3,"Touring-3000 Blue, 44",$742.35 ,7/1/2007,NULL,Blue,44,Current
+586,3,"Touring-3000 Blue, 50",$742.35 ,7/1/2007,NULL,Blue,50,Current
+587,1,"Mountain-400-W Silver, 38",$769.49 ,7/1/2007,NULL,Silver,38,Current
+588,1,"Mountain-400-W Silver, 40",$769.49 ,7/1/2007,NULL,Silver,40,Current
+589,1,"Mountain-400-W Silver, 42",$769.49 ,7/1/2007,NULL,Silver,42,Current
+590,1,"Mountain-400-W Silver, 46",$769.49 ,7/1/2007,NULL,Silver,46,Current
+591,1,"Mountain-500 Silver, 40",$564.99 ,7/1/2007,NULL,Silver,40,Current
+592,1,"Mountain-500 Silver, 42",$564.99 ,7/1/2007,NULL,Silver,42,Current
+593,1,"Mountain-500 Silver, 44",$564.99 ,7/1/2007,NULL,Silver,44,Current
+594,1,"Mountain-500 Silver, 48",$564.99 ,7/1/2007,NULL,Silver,48,Current
+595,1,"Mountain-500 Silver, 52",$564.99 ,7/1/2007,NULL,Silver,52,Current
+596,1,"Mountain-500 Black, 40",$539.99 ,7/1/2007,NULL,Black,40,Current
+597,1,"Mountain-500 Black, 42",$539.99 ,7/1/2007,NULL,Black,42,Current
+598,1,"Mountain-500 Black, 44",$539.99 ,7/1/2007,NULL,Black,44,Current
+599,1,"Mountain-500 Black, 48",$539.99 ,7/1/2007,NULL,Black,48,Current
+600,1,"Mountain-500 Black, 52",$539.99 ,7/1/2007,NULL,Black,52,Current
+601,5,LL Bottom Bracket,$53.99 ,7/1/2007,NULL,NA,NULL,Current
+602,5,ML Bottom Bracket,$101.24 ,7/1/2007,NULL,NA,NULL,Current
+603,5,HL Bottom Bracket,$121.49 ,7/1/2007,NULL,NA,NULL,Current
+604,2,"Road-750 Black, 44",$539.99 ,7/1/2007,NULL,Black,44,Current
+605,2,"Road-750 Black, 48",$539.99 ,7/1/2007,NULL,Black,48,Current
+606,2,"Road-750 Black, 52",$539.99 ,7/1/2007,NULL,Black,52,Current
+203,NULL,Seat Post,NULL,6/1/1998,NULL,NA,,Current
+204,NULL,Steerer,NULL,6/1/1998,NULL,NA,,Current
+205,NULL,Seat Stays,NULL,6/1/1998,NULL,NA,,Current
+206,NULL,Seat Tube,NULL,6/1/1998,NULL,NA,,Current
+207,NULL,Top Tube,NULL,6/1/1998,NULL,NA,,Current
+208,NULL,Tension Pulley,NULL,6/1/1998,NULL,NA,,Current
+209,NULL,Rear Derailleur Cage,NULL,6/1/1998,NULL,Silver,,Current
+210,14,"HL Road Frame - Black, 58",NULL,6/1/1998,NULL,Black,58,Current
+211,14,"HL Road Frame - Red, 58",NULL,6/1/1998,NULL,Red,58,Current
+212,31,"Sport-100 Helmet, Red",33.6442,7/1/2005,37437,Red,,
+213,31,"Sport-100 Helmet, Red",33.6442,7/1/2006,37802,Red,,
+214,31,"Sport-100 Helmet, Red",34.99,7/1/2007,NULL,Red,,Current
+215,31,"Sport-100 Helmet, Black",33.6442,7/1/2005,37437,Black,,
+216,31,"Sport-100 Helmet, Black",33.6442,7/1/2006,37802,Black,,
+217,31,"Sport-100 Helmet, Black",34.99,7/1/2007,NULL,Black,,Current
+218,23,"Mountain Bike Socks, M",9.5,7/1/2005,37437,White,M,
+219,23,"Mountain Bike Socks, L",9.5,7/1/2005,37437,White,L,
+220,31,"Sport-100 Helmet, Blue",33.6442,7/1/2005,37437,Blue,,
+221,31,"Sport-100 Helmet, Blue",33.6442,7/1/2006,37802,Blue,,
+222,31,"Sport-100 Helmet, Blue",34.99,7/1/2007,NULL,Blue,,Current
+223,19,AWC Logo Cap,8.6442,7/1/2005,37437,Multi,,
+224,19,AWC Logo Cap,8.6442,7/1/2006,37802,Multi,,
+225,19,AWC Logo Cap,8.99,7/1/2007,NULL,Multi,,Current
+226,21,"Long-Sleeve Logo Jersey, S",48.0673,7/1/2005,37437,Multi,S,
+227,21,"Long-Sleeve Logo Jersey, S",48.0673,7/1/2006,37802,Multi,S,
+228,21,"Long-Sleeve Logo Jersey, S",49.99,7/1/2007,NULL,Multi,S,Current
+229,21,"Long-Sleeve Logo Jersey, M",48.0673,7/1/2005,37437,Multi,M,
+230,21,"Long-Sleeve Logo Jersey, M",48.0673,7/1/2006,37802,Multi,M,
+231,21,"Long-Sleeve Logo Jersey, M",49.99,7/1/2007,NULL,Multi,M,Current
+232,21,"Long-Sleeve Logo Jersey, L",48.0673,7/1/2005,37437,Multi,L,
+233,21,"Long-Sleeve Logo Jersey, L",48.0673,7/1/2006,37802,Multi,L,
+234,21,"Long-Sleeve Logo Jersey, L",49.99,7/1/2007,NULL,Multi,L,Current
+235,21,"Long-Sleeve Logo Jersey, XL",48.0673,7/1/2005,37437,Multi,XL,
+236,21,"Long-Sleeve Logo Jersey, XL",48.0673,7/1/2006,37802,Multi,XL,
+237,21,"Long-Sleeve Logo Jersey, XL",49.99,7/1/2007,NULL,Multi,XL,Current
+238,14,"HL Road Frame - Red, 62",1263.4598,7/1/2005,37437,Red,62,
+239,14,"HL Road Frame - Red, 62",1301.3636,7/1/2006,37802,Red,62,
+240,14,"HL Road Frame - Red, 62",1431.5,7/1/2007,NULL,Red,62,Current
+241,14,"HL Road Frame - Red, 44",1263.4598,7/1/2005,37437,Red,44,
+242,14,"HL Road Frame - Red, 44",1301.3636,7/1/2006,37802,Red,44,
+243,14,"HL Road Frame - Red, 44",1431.5,7/1/2007,NULL,Red,44,Current
+244,14,"HL Road Frame - Red, 48",1263.4598,7/1/2005,37437,Red,48,
+245,14,"HL Road Frame - Red, 48",1301.3636,7/1/2006,37802,Red,48,
+246,14,"HL Road Frame - Red, 48",1431.5,7/1/2007,NULL,Red,48,Current
+247,14,"HL Road Frame - Red, 52",1263.4598,7/1/2005,37437,Red,52,
+248,14,"HL Road Frame - Red, 52",1301.3636,7/1/2006,37802,Red,52,
+249,14,"HL Road Frame - Red, 52",1431.5,7/1/2007,NULL,Red,52,Current
+250,14,"HL Road Frame - Red, 56",1263.4598,7/1/2005,37437,Red,56,
+251,14,"HL Road Frame - Red, 56",1301.3636,7/1/2006,37802,Red,56,
+252,14,"HL Road Frame - Red, 56",1431.5,7/1/2007,NULL,Red,56,Current
+253,14,"LL Road Frame - Black, 58",297.6346,7/1/2005,37437,Black,58,
+254,14,"LL Road Frame - Black, 58",306.5636,7/1/2006,37802,Black,58,
+255,14,"LL Road Frame - Black, 58",337.22,7/1/2007,NULL,Black,58,Current
+256,14,"LL Road Frame - Black, 60",297.6346,7/1/2005,37437,Black,60,
+257,14,"LL Road Frame - Black, 60",306.5636,7/1/2006,37802,Black,60,
+258,14,"LL Road Frame - Black, 60",337.22,7/1/2007,NULL,Black,60,Current
+259,14,"LL Road Frame - Black, 62",297.6346,7/1/2005,37437,Black,62,
+260,14,"LL Road Frame - Black, 62",306.5636,7/1/2006,37802,Black,62,
+261,14,"LL Road Frame - Black, 62",337.22,7/1/2007,NULL,Black,62,Current
+262,14,"LL Road Frame - Red, 44",306.5636,7/1/2005,37437,Red,44,
+263,14,"LL Road Frame - Red, 44",337.22,7/1/2006,37802,Red,44,
+264,14,"LL Road Frame - Red, 48",306.5636,7/1/2005,37437,Red,48,
+265,14,"LL Road Frame - Red, 48",337.22,7/1/2006,37802,Red,48,
+266,14,"LL Road Frame - Red, 52",306.5636,7/1/2005,37437,Red,52,
+267,14,"LL Road Frame - Red, 52",337.22,7/1/2006,37802,Red,52,
+268,14,"LL Road Frame - Red, 58",306.5636,7/1/2005,37437,Red,58,
+269,14,"LL Road Frame - Red, 58",337.22,7/1/2006,37802,Red,58,
+270,14,"LL Road Frame - Red, 60",306.5636,7/1/2005,37437,Red,60,
+271,14,"LL Road Frame - Red, 60",337.22,7/1/2006,37802,Red,60,
+272,14,"LL Road Frame - Red, 62",306.5636,7/1/2005,37437,Red,62,
+273,14,"LL Road Frame - Red, 62",337.22,7/1/2006,37802,Red,62,
+274,14,"ML Road Frame - Red, 44",594.83,7/1/2005,37437,Red,44,
+275,14,"ML Road Frame - Red, 48",594.83,7/1/2005,37437,Red,48,
+276,14,"ML Road Frame - Red, 52",594.83,7/1/2005,37437,Red,52,
+277,14,"ML Road Frame - Red, 58",594.83,7/1/2005,37437,Red,58,
+278,14,"ML Road Frame - Red, 60",594.83,7/1/2005,37437,Red,60,
+279,14,"LL Road Frame - Black, 44",297.6346,7/1/2005,37437,Black,44,
+280,14,"LL Road Frame - Black, 44",306.5636,7/1/2006,37802,Black,44,
+281,14,"LL Road Frame - Black, 44",337.22,7/1/2007,NULL,Black,44,Current
+282,14,"LL Road Frame - Black, 48",297.6346,7/1/2005,37437,Black,48,
+283,14,"LL Road Frame - Black, 48",306.5636,7/1/2006,37802,Black,48,
+284,14,"LL Road Frame - Black, 48",337.22,7/1/2007,NULL,Black,48,Current
+285,14,"LL Road Frame - Black, 52",297.6346,7/1/2005,37437,Black,52,
+286,14,"LL Road Frame - Black, 52",306.5636,7/1/2006,37802,Black,52,
+287,14,"LL Road Frame - Black, 52",337.22,7/1/2007,NULL,Black,52,Current
+288,12,"HL Mountain Frame - Silver, 42",1204.3248,7/1/2005,37437,Silver,42,
+289,12,"HL Mountain Frame - Silver, 42",1240.4545,7/1/2006,37802,Silver,42,
+290,12,"HL Mountain Frame - Silver, 42",1364.5,7/1/2007,NULL,Silver,42,Current
+291,12,"HL Mountain Frame - Silver, 44",1364.5,7/1/2005,37437,Silver,44,
+292,12,"HL Mountain Frame - Silver, 48",1364.5,7/1/2005,37437,Silver,48,
+293,12,"HL Mountain Frame - Silver, 46",1204.3248,7/1/2005,37437,Silver,46,
+294,12,"HL Mountain Frame - Silver, 46",1240.4545,7/1/2006,37802,Silver,46,
+295,12,"HL Mountain Frame - Silver, 46",1364.5,7/1/2007,NULL,Silver,46,Current
+296,12,"HL Mountain Frame - Black, 42",1191.1739,7/1/2005,37437,Black,42,
+297,12,"HL Mountain Frame - Black, 42",1226.9091,7/1/2006,37802,Black,42,
+298,12,"HL Mountain Frame - Black, 42",1349.6,7/1/2007,NULL,Black,42,Current
+299,12,"HL Mountain Frame - Black, 44",1349.6,7/1/2005,37437,Black,44,
+300,12,"HL Mountain Frame - Black, 48",1349.6,7/1/2005,37437,Black,48,
+301,12,"HL Mountain Frame - Black, 46",1191.1739,7/1/2005,37437,Black,46,
+302,12,"HL Mountain Frame - Black, 46",1226.9091,7/1/2006,37802,Black,46,
+303,12,"HL Mountain Frame - Black, 46",1349.6,7/1/2007,NULL,Black,46,Current
+304,12,"HL Mountain Frame - Black, 38",1191.1739,7/1/2005,37437,Black,38,
+305,12,"HL Mountain Frame - Black, 38",1226.9091,7/1/2006,37802,Black,38,
+306,12,"HL Mountain Frame - Black, 38",1349.6,7/1/2007,NULL,Black,38,Current
+307,12,"HL Mountain Frame - Silver, 38",1204.3248,7/1/2005,37437,Silver,38,
+308,12,"HL Mountain Frame - Silver, 38",1240.4545,7/1/2006,37802,Silver,38,
+309,12,"HL Mountain Frame - Silver, 38",1364.5,7/1/2007,NULL,Silver,38,Current
+310,2,"Road-150 Red, 62",3578.27,7/1/2005,37437,Red,62,
+311,2,"Road-150 Red, 44",3578.27,7/1/2005,37437,Red,44,
+312,2,"Road-150 Red, 48",3578.27,7/1/2005,37437,Red,48,
+313,2,"Road-150 Red, 52",3578.27,7/1/2005,37437,Red,52,
+314,2,"Road-150 Red, 56",3578.27,7/1/2005,37437,Red,56,
+315,2,"Road-450 Red, 58",1457.99,7/1/2005,37437,Red,58,
+316,2,"Road-450 Red, 60",1457.99,7/1/2005,37437,Red,60,
+317,2,"Road-450 Red, 44",1457.99,7/1/2005,37437,Red,44,
+318,2,"Road-450 Red, 48",1457.99,7/1/2005,37437,Red,48,
+319,2,"Road-450 Red, 52",1457.99,7/1/2005,37437,Red,52,
+320,2,"Road-650 Red, 58",699.0982,7/1/2005,37437,Red,58,
+321,2,"Road-650 Red, 58",782.99,7/1/2006,37802,Red,58,
+322,2,"Road-650 Red, 60",699.0982,7/1/2005,37437,Red,60,
+323,2,"Road-650 Red, 60",782.99,7/1/2006,37802,Red,60,
+324,2,"Road-650 Red, 62",699.0982,7/1/2005,37437,Red,62,
+325,2,"Road-650 Red, 62",782.99,7/1/2006,37802,Red,62,
+326,2,"Road-650 Red, 44",699.0982,7/1/2005,37437,Red,44,
+327,2,"Road-650 Red, 44",782.99,7/1/2006,37802,Red,44,
+328,2,"Road-650 Red, 48",699.0982,7/1/2005,37437,Red,48,
+329,2,"Road-650 Red, 48",782.99,7/1/2006,37802,Red,48,
+330,2,"Road-650 Red, 52",699.0982,7/1/2005,37437,Red,52,
+331,2,"Road-650 Red, 52",782.99,7/1/2006,37802,Red,52,
+332,2,"Road-650 Black, 58",699.0982,7/1/2005,37437,Black,58,
+333,2,"Road-650 Black, 58",782.99,7/1/2006,37802,Black,58,
+334,2,"Road-650 Black, 60",699.0982,7/1/2005,37437,Black,60,
+335,2,"Road-650 Black, 60",782.99,7/1/2006,37802,Black,60,
+336,2,"Road-650 Black, 62",699.0982,7/1/2005,37437,Black,62,
+337,2,"Road-650 Black, 62",782.99,7/1/2006,37802,Black,62,
+338,2,"Road-650 Black, 44",699.0982,7/1/2005,37437,Black,44,
+339,2,"Road-650 Black, 44",782.99,7/1/2006,37802,Black,44,
+340,2,"Road-650 Black, 48",699.0982,7/1/2005,37437,Black,48,
+341,2,"Road-650 Black, 48",782.99,7/1/2006,37802,Black,48,
+342,2,"Road-650 Black, 52",699.0982,7/1/2005,37437,Black,52,
+343,2,"Road-650 Black, 52",782.99,7/1/2006,37802,Black,52,
+344,1,"Mountain-100 Silver, 38",3399.99,7/1/2005,37437,Silver,38,
+345,1,"Mountain-100 Silver, 42",3399.99,7/1/2005,37437,Silver,42,
+346,1,"Mountain-100 Silver, 44",3399.99,7/1/2005,37437,Silver,44,
+347,1,"Mountain-100 Silver, 48",3399.99,7/1/2005,37437,Silver,48,
+348,1,"Mountain-100 Black, 38",3374.99,7/1/2005,37437,Black,38,
+349,1,"Mountain-100 Black, 42",3374.99,7/1/2005,37437,Black,42,
+350,1,"Mountain-100 Black, 44",3374.99,7/1/2005,37437,Black,44,
+351,1,"Mountain-100 Black, 48",3374.99,7/1/2005,37437,Black,48,
+352,1,"Mountain-200 Silver, 38",2071.4196,7/1/2006,37802,Silver,38,
+353,1,"Mountain-200 Silver, 38",2319.99,7/1/2007,NULL,Silver,38,Current
+354,1,"Mountain-200 Silver, 42",2071.4196,7/1/2006,37802,Silver,42,
+355,1,"Mountain-200 Silver, 42",2319.99,7/1/2007,NULL,Silver,42,Current
+356,1,"Mountain-200 Silver, 46",2071.4196,7/1/2006,37802,Silver,46,
+357,1,"Mountain-200 Silver, 46",2319.99,7/1/2007,NULL,Silver,46,Current
+358,1,"Mountain-200 Black, 38",2049.0982,7/1/2006,37802,Black,38,
+359,1,"Mountain-200 Black, 38",2294.99,7/1/2007,NULL,Black,38,Current
+360,1,"Mountain-200 Black, 42",2049.0982,7/1/2006,37802,Black,42,
+361,1,"Mountain-200 Black, 42",2294.99,7/1/2007,NULL,Black,42,Current
+362,1,"Mountain-200 Black, 46",2049.0982,7/1/2006,37802,Black,46,
+363,1,"Mountain-200 Black, 46",2294.99,7/1/2007,NULL,Black,46,Current
+364,1,"Mountain-300 Black, 38",1079.99,7/1/2006,37802,Black,38,
+365,1,"Mountain-300 Black, 40",1079.99,7/1/2006,37802,Black,40,
+366,1,"Mountain-300 Black, 44",1079.99,7/1/2006,37802,Black,44,
+367,1,"Mountain-300 Black, 48",1079.99,7/1/2006,37802,Black,48,
+368,2,"Road-250 Red, 44",2443.35,7/1/2006,37802,Red,44,
+369,2,"Road-250 Red, 48",2443.35,7/1/2006,37802,Red,48,
+370,2,"Road-250 Red, 52",2443.35,7/1/2006,37802,Red,52,
+371,2,"Road-250 Red, 58",2181.5625,7/1/2006,37802,Red,58,
+372,2,"Road-250 Red, 58",2443.35,7/1/2007,NULL,Red,58,Current
+373,2,"Road-250 Black, 44",2181.5625,7/1/2006,37802,Black,44,
+374,2,"Road-250 Black, 44",2443.35,7/1/2007,NULL,Black,44,Current
+375,2,"Road-250 Black, 48",2181.5625,7/1/2006,37802,Black,48,
+376,2,"Road-250 Black, 48",2443.35,7/1/2007,NULL,Black,48,Current
+377,2,"Road-250 Black, 52",2181.5625,7/1/2006,37802,Black,52,
+378,2,"Road-250 Black, 52",2443.35,7/1/2007,NULL,Black,52,Current
+379,2,"Road-250 Black, 58",2181.5625,7/1/2006,37802,Black,58,
+380,2,"Road-250 Black, 58",2443.35,7/1/2007,NULL,Black,58,Current
+381,2,"Road-550-W Yellow, 38",1000.4375,7/1/2006,37802,Yellow,38,
+382,2,"Road-550-W Yellow, 38",1120.49,7/1/2007,NULL,Yellow,38,Current
+383,2,"Road-550-W Yellow, 40",1000.4375,7/1/2006,37802,Yellow,40,
+384,2,"Road-550-W Yellow, 40",1120.49,7/1/2007,NULL,Yellow,40,Current
+385,2,"Road-550-W Yellow, 42",1000.4375,7/1/2006,37802,Yellow,42,
+386,2,"Road-550-W Yellow, 42",1120.49,7/1/2007,NULL,Yellow,42,Current
+387,2,"Road-550-W Yellow, 44",1000.4375,7/1/2006,37802,Yellow,44,
+388,2,"Road-550-W Yellow, 44",1120.49,7/1/2007,NULL,Yellow,44,Current
+389,2,"Road-550-W Yellow, 48",1000.4375,7/1/2006,37802,Yellow,48,
+390,2,"Road-550-W Yellow, 48",1120.49,7/1/2007,NULL,Yellow,48,Current
+391,10,LL Fork,148.22,7/1/2006,37802,NA,,
+392,10,ML Fork,175.49,7/1/2006,37802,NA,,
+393,10,HL Fork,229.49,7/1/2006,37802,NA,,
+394,11,LL Headset,34.2,7/1/2006,37802,NA,,
+395,11,ML Headset,102.29,7/1/2006,37802,NA,,
+396,11,HL Headset,124.73,7/1/2006,37802,NA,,
+397,4,LL Mountain Handlebars,40.4909,7/1/2006,37802,NA,,
+398,4,LL Mountain Handlebars,44.54,7/1/2007,NULL,NA,,Current
+399,4,ML Mountain Handlebars,56.2909,7/1/2006,37802,NA,,
+400,4,ML Mountain Handlebars,61.92,7/1/2007,NULL,NA,,Current
+401,4,HL Mountain Handlebars,109.3364,7/1/2006,37802,NA,,
+402,4,HL Mountain Handlebars,120.27,7/1/2007,NULL,NA,,Current
+403,4,LL Road Handlebars,40.4909,7/1/2006,37802,NA,,
+404,4,LL Road Handlebars,44.54,7/1/2007,NULL,NA,,Current
+405,4,ML Road Handlebars,56.2909,7/1/2006,37802,NA,,
+406,4,ML Road Handlebars,61.92,7/1/2007,NULL,NA,,Current
+407,4,HL Road Handlebars,109.3364,7/1/2006,37802,NA,,
+408,4,HL Road Handlebars,120.27,7/1/2007,NULL,NA,,Current
+409,12,"ML Mountain Frame - Black, 38",348.76,7/1/2006,37802,Black,38,
+410,17,LL Mountain Front Wheel,60.745,7/1/2006,37802,Black,,
+411,17,ML Mountain Front Wheel,209.025,7/1/2006,37802,Black,,
+412,17,HL Mountain Front Wheel,300.215,7/1/2006,37802,Black,,
+413,17,LL Road Front Wheel,85.565,7/1/2006,37802,Black,,
+414,17,ML Road Front Wheel,248.385,7/1/2006,37802,Black,,
+415,17,HL Road Front Wheel,330.06,7/1/2006,37802,Black,,
+416,17,Touring Front Wheel,218.01,7/1/2006,37802,Black,,
+417,14,"ML Road Frame-W - Yellow, 38",540.7545,7/1/2006,37802,Yellow,38,
+418,14,"ML Road Frame-W - Yellow, 38",594.83,7/1/2007,NULL,Yellow,38,Current
+419,17,LL Mountain Rear Wheel,87.745,7/1/2006,37802,Black,,
+420,17,ML Mountain Rear Wheel,236.025,7/1/2006,37802,Black,,
+421,17,HL Mountain Rear Wheel,327.215,7/1/2006,37802,Black,,
+422,17,LL Road Rear Wheel,112.565,7/1/2006,37802,Black,,
+423,17,ML Road Rear Wheel,275.385,7/1/2006,37802,Black,,
+424,17,HL Road Rear Wheel,357.06,7/1/2006,37802,Black,,
+425,17,Touring Rear Wheel,245.01,7/1/2006,37802,Black,,
+426,12,"ML Mountain Frame - Black, 40",348.76,7/1/2006,37802,Black,40,
+427,12,"ML Mountain Frame - Black, 44",348.76,7/1/2006,37802,Black,44,
+428,12,"ML Mountain Frame - Black, 48",348.76,7/1/2006,37802,Black,48,
+429,14,"ML Road Frame-W - Yellow, 40",540.7545,7/1/2006,37802,Yellow,40,
+430,14,"ML Road Frame-W - Yellow, 40",594.83,7/1/2007,NULL,Yellow,40,Current
+431,14,"ML Road Frame-W - Yellow, 42",540.7545,7/1/2006,37802,Yellow,42,
+432,14,"ML Road Frame-W - Yellow, 42",594.83,7/1/2007,NULL,Yellow,42,Current
+433,14,"ML Road Frame-W - Yellow, 44",540.7545,7/1/2006,37802,Yellow,44,
+434,14,"ML Road Frame-W - Yellow, 44",594.83,7/1/2007,NULL,Yellow,44,Current
+435,14,"ML Road Frame-W - Yellow, 48",540.7545,7/1/2006,37802,Yellow,48,
+436,14,"ML Road Frame-W - Yellow, 48",594.83,7/1/2007,NULL,Yellow,48,Current
+437,14,"HL Road Frame - Black, 62",1301.3636,7/1/2006,37802,Black,62,
+438,14,"HL Road Frame - Black, 62",1431.5,7/1/2007,NULL,Black,62,Current
+439,14,"HL Road Frame - Black, 44",1301.3636,7/1/2006,37802,Black,44,
+440,14,"HL Road Frame - Black, 44",1431.5,7/1/2007,NULL,Black,44,Current
+441,14,"HL Road Frame - Black, 48",1301.3636,7/1/2006,37802,Black,48,
+442,14,"HL Road Frame - Black, 48",1431.5,7/1/2007,NULL,Black,48,Current
+443,14,"HL Road Frame - Black, 52",1301.3636,7/1/2006,37802,Black,52,
+444,14,"HL Road Frame - Black, 52",1431.5,7/1/2007,NULL,Black,52,Current
+445,22,"Men's Sports Shorts, S",59.99,7/1/2006,37802,Black,S,
+446,35,"Touring-Panniers, Large",125,7/1/2006,37802,Grey,,
+447,34,Cable Lock,25,7/1/2006,37802,NA,,
+448,36,Minipump,19.99,7/1/2006,37802,NA,,
+449,36,Mountain Pump,24.99,7/1/2006,37802,NA,,
+450,33,Taillights - Battery-Powered,13.99,7/1/2006,37802,NA,,
+451,33,Headlights - Dual-Beam,34.99,7/1/2006,37802,NA,,
+452,33,Headlights - Weatherproof,44.99,7/1/2006,37802,NA,,
+453,22,"Men's Sports Shorts, M",59.99,7/1/2006,37802,Black,M,
+454,22,"Men's Sports Shorts, L",59.99,7/1/2006,37802,Black,L,
+455,22,"Men's Sports Shorts, XL",59.99,7/1/2006,37802,Black,XL,
+456,24,"Women's Tights, S",74.99,7/1/2006,37802,Black,S,
+457,24,"Women's Tights, M",74.99,7/1/2006,37802,Black,M,
+458,24,"Women's Tights, L",74.99,7/1/2006,37802,Black,L,
+459,18,"Men's Bib-Shorts, S",89.99,7/1/2006,37802,Multi,S,
+460,18,"Men's Bib-Shorts, M",89.99,7/1/2006,37802,Multi,M,
+461,18,"Men's Bib-Shorts, L",89.99,7/1/2006,37802,Multi,L,
+462,20,"Half-Finger Gloves, S",23.5481,7/1/2006,37802,Black,S,
+463,20,"Half-Finger Gloves, S",24.49,7/1/2007,NULL,Black,S,Current
+464,20,"Half-Finger Gloves, M",23.5481,7/1/2006,37802,Black,M,
+465,20,"Half-Finger Gloves, M",24.49,7/1/2007,NULL,Black,M,Current
+466,20,"Half-Finger Gloves, L",23.5481,7/1/2006,37802,Black,L,
+467,20,"Half-Finger Gloves, L",24.49,7/1/2007,NULL,Black,L,Current
+468,20,"Full-Finger Gloves, S",37.99,7/1/2006,37802,Black,S,
+469,20,"Full-Finger Gloves, M",37.99,7/1/2006,37802,Black,M,
+470,20,"Full-Finger Gloves, L",37.99,7/1/2006,37802,Black,L,
+471,25,"Classic Vest, S",63.5,7/1/2007,NULL,Blue,S,Current
+472,25,"Classic Vest, M",63.5,7/1/2007,NULL,Blue,M,Current
+473,25,"Classic Vest, L",63.5,7/1/2007,NULL,Blue,L,Current
+474,22,"Women's Mountain Shorts, S",69.99,7/1/2007,NULL,Black,S,Current
+475,22,"Women's Mountain Shorts, M",69.99,7/1/2007,NULL,Black,M,Current
+476,22,"Women's Mountain Shorts, L",69.99,7/1/2007,NULL,Black,L,Current
+477,28,Water Bottle - 30 oz.,4.99,7/1/2007,NULL,NA,,Current
+478,28,Mountain Bottle Cage,9.99,7/1/2007,NULL,NA,,Current
+479,28,Road Bottle Cage,8.99,7/1/2007,NULL,NA,,Current
+480,37,Patch Kit/8 Patches,2.29,7/1/2007,NULL,NA,,Current
+481,23,"Racing Socks, M",8.99,7/1/2007,NULL,White,M,Current
+482,23,"Racing Socks, L",8.99,7/1/2007,NULL,White,L,Current
+483,26,Hitch Rack - 4-Bike,120,7/1/2007,NULL,NA,,Current
+484,29,Bike Wash - Dissolver,7.95,7/1/2007,NULL,NA,,Current
+485,30,Fender Set - Mountain,21.98,7/1/2007,NULL,NA,,Current
+486,27,All-Purpose Bike Stand,159,7/1/2007,NULL,NA,,Current
+487,32,Hydration Pack - 70 oz.,54.99,7/1/2007,NULL,Silver,70,Current
+488,21,"Short-Sleeve Classic Jersey, S",53.99,7/1/2007,NULL,Yellow,S,Current
+489,21,"Short-Sleeve Classic Jersey, M",53.99,7/1/2007,NULL,Yellow,M,Current
+490,21,"Short-Sleeve Classic Jersey, L",53.99,7/1/2007,NULL,Yellow,L,Current
+491,21,"Short-Sleeve Classic Jersey, XL",53.99,7/1/2007,NULL,Yellow,XL,Current
+492,16,"HL Touring Frame - Yellow, 60",1003.91,7/1/2007,NULL,Yellow,60,Current
+493,16,"LL Touring Frame - Yellow, 62",333.42,7/1/2007,NULL,Yellow,62,Current
+494,16,"HL Touring Frame - Yellow, 46",1003.91,7/1/2007,NULL,Yellow,46,Current
+495,16,"HL Touring Frame - Yellow, 50",1003.91,7/1/2007,NULL,Yellow,50,Current
+496,16,"HL Touring Frame - Yellow, 54",1003.91,7/1/2007,NULL,Yellow,54,Current
+497,16,"HL Touring Frame - Blue, 46",1003.91,7/1/2007,NULL,Blue,46,Current
+498,16,"HL Touring Frame - Blue, 50",1003.91,7/1/2007,NULL,Blue,50,Current
+499,16,"HL Touring Frame - Blue, 54",1003.91,7/1/2007,NULL,Blue,54,Current
+500,16,"HL Touring Frame - Blue, 60",1003.91,7/1/2007,NULL,Blue,60,Current
+501,9,Rear Derailleur,121.46,7/1/2007,NULL,Silver,,Current
+502,16,"LL Touring Frame - Blue, 50",333.42,7/1/2007,NULL,Blue,50,Current
+503,16,"LL Touring Frame - Blue, 54",333.42,7/1/2007,NULL,Blue,54,Current
+504,16,"LL Touring Frame - Blue, 58",333.42,7/1/2007,NULL,Blue,58,Current
+505,16,"LL Touring Frame - Blue, 62",333.42,7/1/2007,NULL,Blue,62,Current
+506,16,"LL Touring Frame - Yellow, 44",333.42,7/1/2007,NULL,Yellow,44,Current
+507,16,"LL Touring Frame - Yellow, 50",333.42,7/1/2007,NULL,Yellow,50,Current
+508,16,"LL Touring Frame - Yellow, 54",333.42,7/1/2007,NULL,Yellow,54,Current
+509,16,"LL Touring Frame - Yellow, 58",333.42,7/1/2007,NULL,Yellow,58,Current
+510,16,"LL Touring Frame - Blue, 44",333.42,7/1/2007,NULL,Blue,44,Current
+511,12,"ML Mountain Frame-W - Silver, 40",364.09,7/1/2007,NULL,Silver,40,Current
+512,12,"ML Mountain Frame-W - Silver, 42",364.09,7/1/2007,NULL,Silver,42,Current
+513,12,"ML Mountain Frame-W - Silver, 46",364.09,7/1/2007,NULL,Silver,46,Current
+514,6,Rear Brakes,106.5,7/1/2007,NULL,Silver,,Current
+515,15,LL Mountain Seat/Saddle,27.12,7/1/2007,NULL,NA,,Current
+516,15,ML Mountain Seat/Saddle,39.14,7/1/2007,NULL,NA,,Current
+517,15,HL Mountain Seat/Saddle,52.64,7/1/2007,NULL,NA,,Current
+518,15,LL Road Seat/Saddle,27.12,7/1/2007,NULL,NA,,Current
+519,15,ML Road Seat/Saddle,39.14,7/1/2007,NULL,NA,,Current
+520,15,HL Road Seat/Saddle,52.64,7/1/2007,NULL,NA,,Current
+521,15,LL Touring Seat/Saddle,27.12,7/1/2007,NULL,NA,,Current
+522,15,ML Touring Seat/Saddle,39.14,7/1/2007,NULL,NA,,Current
+523,15,HL Touring Seat/Saddle,52.64,7/1/2007,NULL,NA,,Current
+524,12,"LL Mountain Frame - Silver, 42",264.05,7/1/2007,NULL,Silver,42,Current
+525,12,"LL Mountain Frame - Silver, 44",264.05,7/1/2007,NULL,Silver,44,Current
+526,12,"LL Mountain Frame - Silver, 48",264.05,7/1/2007,NULL,Silver,48,Current
+527,12,"LL Mountain Frame - Silver, 52",264.05,7/1/2007,NULL,Silver,52,Current
+528,37,Mountain Tire Tube,4.99,7/1/2007,NULL,NA,,Current
+529,37,Road Tire Tube,3.99,7/1/2007,NULL,NA,,Current
+530,37,Touring Tire Tube,4.99,7/1/2007,NULL,NA,,Current
+531,12,"LL Mountain Frame - Black, 42",249.79,7/1/2007,NULL,Black,42,Current
+532,12,"LL Mountain Frame - Black, 44",249.79,7/1/2007,NULL,Black,44,Current
+533,12,"LL Mountain Frame - Black, 48",249.79,7/1/2007,NULL,Black,48,Current
+534,12,"LL Mountain Frame - Black, 52",249.79,7/1/2007,NULL,Black,52,Current
+535,37,LL Mountain Tire,24.99,7/1/2007,NULL,NA,,Current
+536,37,ML Mountain Tire,29.99,7/1/2007,NULL,NA,,Current
+537,37,HL Mountain Tire,35,7/1/2007,NULL,NA,,Current
+538,37,LL Road Tire,21.49,7/1/2007,NULL,NA,,Current
+539,37,ML Road Tire,24.99,7/1/2007,NULL,NA,,Current
+540,37,HL Road Tire,32.6,7/1/2007,NULL,NA,,Current
+541,37,Touring Tire,28.99,7/1/2007,NULL,NA,,Current
+542,13,LL Mountain Pedal,40.49,7/1/2007,NULL,Silver/Black,,Current
+543,13,ML Mountain Pedal,62.09,7/1/2007,NULL,Silver/Black,,Current
+544,13,HL Mountain Pedal,80.99,7/1/2007,NULL,Silver/Black,,Current
+545,13,LL Road Pedal,40.49,7/1/2007,NULL,Silver/Black,,Current
+546,13,ML Road Pedal,62.09,7/1/2007,NULL,Silver/Black,,Current
+547,13,HL Road Pedal,80.99,7/1/2007,NULL,Silver/Black,,Current
+548,13,Touring Pedal,80.99,7/1/2007,NULL,Silver/Black,,Current
+549,12,"ML Mountain Frame-W - Silver, 38",364.09,7/1/2007,NULL,Silver,38,Current
+550,12,"LL Mountain Frame - Black, 40",249.79,7/1/2007,NULL,Black,40,Current
+551,12,"LL Mountain Frame - Silver, 40",264.05,7/1/2007,NULL,Silver,40,Current
+552,9,Front Derailleur,91.49,7/1/2007,NULL,Silver,,Current
+553,4,LL Touring Handlebars,46.09,7/1/2007,NULL,NA,,Current
+554,4,HL Touring Handlebars,91.57,7/1/2007,NULL,NA,,Current
+555,6,Front Brakes,106.5,7/1/2007,NULL,Silver,,Current
+556,8,LL Crankset,175.49,7/1/2007,NULL,Black,,Current
+557,8,ML Crankset,256.49,7/1/2007,NULL,Black,,Current
+558,8,HL Crankset,404.99,7/1/2007,NULL,Black,,Current
+559,7,Chain,20.24,7/1/2007,NULL,Silver,,Current
+560,3,"Touring-2000 Blue, 60",1214.85,7/1/2007,NULL,Blue,60,Current
+561,3,"Touring-1000 Yellow, 46",2384.07,7/1/2007,NULL,Yellow,46,Current
+562,3,"Touring-1000 Yellow, 50",2384.07,7/1/2007,NULL,Yellow,50,Current
+563,3,"Touring-1000 Yellow, 54",2384.07,7/1/2007,NULL,Yellow,54,Current
+564,3,"Touring-1000 Yellow, 60",2384.07,7/1/2007,NULL,Yellow,60,Current
+565,3,"Touring-3000 Blue, 54",742.35,7/1/2007,NULL,Blue,54,Current
+566,3,"Touring-3000 Blue, 58",742.35,7/1/2007,NULL,Blue,58,Current
+567,3,"Touring-3000 Blue, 62",742.35,7/1/2007,NULL,Blue,62,Current
+568,3,"Touring-3000 Yellow, 44",742.35,7/1/2007,NULL,Yellow,44,Current
+569,3,"Touring-3000 Yellow, 50",742.35,7/1/2007,NULL,Yellow,50,Current
+570,3,"Touring-3000 Yellow, 54",742.35,7/1/2007,NULL,Yellow,54,Current
+571,3,"Touring-3000 Yellow, 58",742.35,7/1/2007,NULL,Yellow,58,Current
+572,3,"Touring-3000 Yellow, 62",742.35,7/1/2007,NULL,Yellow,62,Current
+573,3,"Touring-1000 Blue, 46",2384.07,7/1/2007,NULL,Blue,46,Current
+574,3,"Touring-1000 Blue, 50",2384.07,7/1/2007,NULL,Blue,50,Current
+575,3,"Touring-1000 Blue, 54",2384.07,7/1/2007,NULL,Blue,54,Current
+576,3,"Touring-1000 Blue, 60",2384.07,7/1/2007,NULL,Blue,60,Current
+577,3,"Touring-2000 Blue, 46",1214.85,7/1/2007,NULL,Blue,46,Current
+578,3,"Touring-2000 Blue, 50",1214.85,7/1/2007,NULL,Blue,50,Current
+579,3,"Touring-2000 Blue, 54",1214.85,7/1/2007,NULL,Blue,54,Current
+580,2,"Road-350-W Yellow, 40",1700.99,7/1/2007,NULL,Yellow,40,Current
+581,2,"Road-350-W Yellow, 42",1700.99,7/1/2007,NULL,Yellow,42,Current
+582,2,"Road-350-W Yellow, 44",1700.99,7/1/2007,NULL,Yellow,44,Current
+583,2,"Road-350-W Yellow, 48",1700.99,7/1/2007,NULL,Yellow,48,Current
+584,2,"Road-750 Black, 58",539.99,7/1/2007,NULL,Black,58,Current
+585,3,"Touring-3000 Blue, 44",742.35,7/1/2007,NULL,Blue,44,Current
+586,3,"Touring-3000 Blue, 50",742.35,7/1/2007,NULL,Blue,50,Current
+587,1,"Mountain-400-W Silver, 38",769.49,7/1/2007,NULL,Silver,38,Current
+588,1,"Mountain-400-W Silver, 40",769.49,7/1/2007,NULL,Silver,40,Current
+589,1,"Mountain-400-W Silver, 42",769.49,7/1/2007,NULL,Silver,42,Current
+590,1,"Mountain-400-W Silver, 46",769.49,7/1/2007,NULL,Silver,46,Current
+591,1,"Mountain-500 Silver, 40",564.99,7/1/2007,NULL,Silver,40,Current
+592,1,"Mountain-500 Silver, 42",564.99,7/1/2007,NULL,Silver,42,Current
+593,1,"Mountain-500 Silver, 44",564.99,7/1/2007,NULL,Silver,44,Current
+594,1,"Mountain-500 Silver, 48",564.99,7/1/2007,NULL,Silver,48,Current
+595,1,"Mountain-500 Silver, 52",564.99,7/1/2007,NULL,Silver,52,Current
+596,1,"Mountain-500 Black, 40",539.99,7/1/2007,NULL,Black,40,Current
+597,1,"Mountain-500 Black, 42",539.99,7/1/2007,NULL,Black,42,Current
+598,1,"Mountain-500 Black, 44",539.99,7/1/2007,NULL,Black,44,Current
+599,1,"Mountain-500 Black, 48",539.99,7/1/2007,NULL,Black,48,Current
+600,1,"Mountain-500 Black, 52",539.99,7/1/2007,NULL,Black,52,Current
+601,5,LL Bottom Bracket,53.99,7/1/2007,NULL,NA,,Current
+602,5,ML Bottom Bracket,101.24,7/1/2007,NULL,NA,,Current
+603,5,HL Bottom Bracket,121.49,7/1/2007,NULL,NA,,Current
+604,2,"Road-750 Black, 44",539.99,7/1/2007,NULL,Black,44,Current
+605,2,"Road-750 Black, 48",539.99,7/1/2007,NULL,Black,48,Current
+606,2,"Road-750 Black, 52",539.99,7/1/2007,NULL,Black,52,Current
+1,NULL,Adjustable Race,NULL,6/1/1998,NULL,NA,NULL,Current
+2,NULL,Bearing Ball,NULL,6/1/1998,NULL,NA,NULL,Current
+3,NULL,BB Ball Bearing,NULL,6/1/1998,NULL,NA,NULL,Current
+4,NULL,Headset Ball Bearings,NULL,6/1/1998,NULL,NA,NULL,Current
+5,NULL,Blade,NULL,6/1/1998,NULL,NA,NULL,Current
+6,NULL,LL Crankarm,NULL,6/1/1998,NULL,Black,NULL,Current
+7,NULL,ML Crankarm,NULL,6/1/1998,NULL,Black,NULL,Current
+8,NULL,HL Crankarm,NULL,6/1/1998,NULL,Black,NULL,Current
+9,NULL,Chainring Bolts,NULL,6/1/1998,NULL,Silver,NULL,Current
+10,NULL,Chainring Nut,NULL,6/1/1998,NULL,Silver,NULL,Current
+11,NULL,Chainring,NULL,6/1/1998,NULL,Black,NULL,Current
+12,NULL,Crown Race,NULL,6/1/1998,NULL,NA,NULL,Current
+13,NULL,Chain Stays,NULL,6/1/1998,NULL,NA,NULL,Current
+14,NULL,Decal 1,NULL,6/1/1998,NULL,NA,NULL,Current
+15,NULL,Decal 2,NULL,6/1/1998,NULL,NA,NULL,Current
+16,NULL,Down Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+17,NULL,Mountain End Caps,NULL,6/1/1998,NULL,NA,NULL,Current
+18,NULL,Road End Caps,NULL,6/1/1998,NULL,NA,NULL,Current
+19,NULL,Touring End Caps,NULL,6/1/1998,NULL,NA,NULL,Current
+20,NULL,Fork End,NULL,6/1/1998,NULL,NA,NULL,Current
+21,NULL,Freewheel,NULL,6/1/1998,NULL,Silver,NULL,Current
+22,NULL,Flat Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+23,NULL,Flat Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+24,NULL,Flat Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+25,NULL,Flat Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+26,NULL,Flat Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+27,NULL,Flat Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+28,NULL,Flat Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+29,NULL,Flat Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+30,NULL,Flat Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+31,NULL,Fork Crown,NULL,6/1/1998,NULL,NA,NULL,Current
+32,NULL,Front Derailleur Cage,NULL,6/1/1998,NULL,Silver,NULL,Current
+33,NULL,Front Derailleur Linkage,NULL,6/1/1998,NULL,Silver,NULL,Current
+34,NULL,Guide Pulley,NULL,6/1/1998,NULL,NA,NULL,Current
+35,NULL,LL Grip Tape,NULL,6/1/1998,NULL,NA,NULL,Current
+36,NULL,ML Grip Tape,NULL,6/1/1998,NULL,NA,NULL,Current
+37,NULL,HL Grip Tape,NULL,6/1/1998,NULL,NA,NULL,Current
+38,NULL,Thin-Jam Hex Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+39,NULL,Thin-Jam Hex Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+40,NULL,Thin-Jam Hex Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+41,NULL,Thin-Jam Hex Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+42,NULL,Thin-Jam Hex Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+43,NULL,Thin-Jam Hex Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+44,NULL,Thin-Jam Hex Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+45,NULL,Thin-Jam Hex Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+46,NULL,Thin-Jam Hex Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+47,NULL,Thin-Jam Hex Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+48,NULL,Thin-Jam Hex Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+49,NULL,Thin-Jam Hex Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+50,NULL,Thin-Jam Hex Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+51,NULL,Thin-Jam Hex Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+52,NULL,Thin-Jam Hex Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+53,NULL,Thin-Jam Hex Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+54,NULL,Hex Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+55,NULL,Hex Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+56,NULL,Hex Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+57,NULL,Hex Nut 17,NULL,6/1/1998,NULL,NA,NULL,Current
+58,NULL,Hex Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+59,NULL,Hex Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+60,NULL,Hex Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+61,NULL,Hex Nut 22,NULL,6/1/1998,NULL,NA,NULL,Current
+62,NULL,Hex Nut 23,NULL,6/1/1998,NULL,NA,NULL,Current
+63,NULL,Hex Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+64,NULL,Hex Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+65,NULL,Hex Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+66,NULL,Hex Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+67,NULL,Hex Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+68,NULL,Hex Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+69,NULL,Hex Nut 20,NULL,6/1/1998,NULL,NA,NULL,Current
+70,NULL,Hex Nut 21,NULL,6/1/1998,NULL,NA,NULL,Current
+71,NULL,Hex Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+72,NULL,Hex Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+73,NULL,Hex Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+74,NULL,Hex Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+75,NULL,Hex Nut 18,NULL,6/1/1998,NULL,NA,NULL,Current
+76,NULL,Hex Nut 19,NULL,6/1/1998,NULL,NA,NULL,Current
+77,NULL,Handlebar Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+78,NULL,Head Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+79,NULL,LL Hub,NULL,6/1/1998,NULL,NA,NULL,Current
+80,NULL,HL Hub,NULL,6/1/1998,NULL,NA,NULL,Current
+81,NULL,Keyed Washer,NULL,6/1/1998,NULL,NA,NULL,Current
+82,NULL,External Lock Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+83,NULL,External Lock Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+84,NULL,External Lock Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+85,NULL,External Lock Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+86,NULL,External Lock Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+87,NULL,External Lock Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+88,NULL,External Lock Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+89,NULL,External Lock Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+90,NULL,External Lock Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+91,NULL,Internal Lock Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+92,NULL,Internal Lock Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+93,NULL,Internal Lock Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+94,NULL,Internal Lock Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+95,NULL,Internal Lock Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+96,NULL,Internal Lock Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+97,NULL,Internal Lock Washer 10,NULL,6/1/1998,NULL,NA,NULL,Current
+98,NULL,Internal Lock Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+99,NULL,Internal Lock Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+100,NULL,Internal Lock Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+101,NULL,Thin-Jam Lock Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+102,NULL,Thin-Jam Lock Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+103,NULL,Thin-Jam Lock Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+104,NULL,Thin-Jam Lock Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+105,NULL,Thin-Jam Lock Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+106,NULL,Thin-Jam Lock Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+107,NULL,Thin-Jam Lock Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+108,NULL,Thin-Jam Lock Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+109,NULL,Thin-Jam Lock Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+110,NULL,Thin-Jam Lock Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+111,NULL,Thin-Jam Lock Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+112,NULL,Thin-Jam Lock Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+113,NULL,Thin-Jam Lock Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+114,NULL,Thin-Jam Lock Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+115,NULL,Thin-Jam Lock Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+116,NULL,Thin-Jam Lock Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+117,NULL,Lock Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+118,NULL,Lock Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+119,NULL,Lock Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+120,NULL,Lock Nut 17,NULL,6/1/1998,NULL,NA,NULL,Current
+121,NULL,Lock Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+122,NULL,Lock Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+123,NULL,Lock Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+124,NULL,Lock Nut 22,NULL,6/1/1998,NULL,NA,NULL,Current
+125,NULL,Lock Nut 23,NULL,6/1/1998,NULL,NA,NULL,Current
+126,NULL,Lock Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+127,NULL,Lock Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+128,NULL,Lock Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+129,NULL,Lock Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+130,NULL,Lock Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+131,NULL,Lock Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+132,NULL,Lock Nut 20,NULL,6/1/1998,NULL,NA,NULL,Current
+133,NULL,Lock Nut 21,NULL,6/1/1998,NULL,NA,NULL,Current
+134,NULL,Lock Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+135,NULL,Lock Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+136,NULL,Lock Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+137,NULL,Lock Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+138,NULL,Lock Nut 19,NULL,6/1/1998,NULL,NA,NULL,Current
+139,NULL,Lock Nut 18,NULL,6/1/1998,NULL,NA,NULL,Current
+140,NULL,Lock Ring,NULL,6/1/1998,NULL,Silver,NULL,Current
+141,NULL,Lower Head Race,NULL,6/1/1998,NULL,NA,NULL,Current
+142,NULL,Lock Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+143,NULL,Lock Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+144,NULL,Lock Washer 10,NULL,6/1/1998,NULL,NA,NULL,Current
+145,NULL,Lock Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+146,NULL,Lock Washer 13,NULL,6/1/1998,NULL,NA,NULL,Current
+147,NULL,Lock Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+148,NULL,Lock Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+149,NULL,Lock Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+150,NULL,Lock Washer 12,NULL,6/1/1998,NULL,NA,NULL,Current
+151,NULL,Lock Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+152,NULL,Lock Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+153,NULL,Lock Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+154,NULL,Lock Washer 11,NULL,6/1/1998,NULL,NA,NULL,Current
+155,NULL,Metal Angle,NULL,6/1/1998,NULL,NA,NULL,Current
+156,NULL,Metal Bar 1,NULL,6/1/1998,NULL,NA,NULL,Current
+157,NULL,Metal Bar 2,NULL,6/1/1998,NULL,NA,NULL,Current
+158,NULL,Metal Plate 2,NULL,6/1/1998,NULL,NA,NULL,Current
+159,NULL,Metal Plate 1,NULL,6/1/1998,NULL,NA,NULL,Current
+160,NULL,Metal Plate 3,NULL,6/1/1998,NULL,NA,NULL,Current
+161,NULL,Metal Sheet 2,NULL,6/1/1998,NULL,NA,NULL,Current
+162,NULL,Metal Sheet 3,NULL,6/1/1998,NULL,NA,NULL,Current
+163,NULL,Metal Sheet 7,NULL,6/1/1998,NULL,NA,NULL,Current
+164,NULL,Metal Sheet 4,NULL,6/1/1998,NULL,NA,NULL,Current
+165,NULL,Metal Sheet 5,NULL,6/1/1998,NULL,NA,NULL,Current
+166,NULL,Metal Sheet 6,NULL,6/1/1998,NULL,NA,NULL,Current
+167,NULL,Metal Sheet 1,NULL,6/1/1998,NULL,NA,NULL,Current
+168,NULL,Metal Tread Plate,NULL,6/1/1998,NULL,NA,NULL,Current
+169,NULL,LL Nipple,NULL,6/1/1998,NULL,NA,NULL,Current
+170,NULL,HL Nipple,NULL,6/1/1998,NULL,NA,NULL,Current
+171,NULL,Paint - Black,NULL,6/1/1998,NULL,NA,NULL,Current
+172,NULL,Paint - Red,NULL,6/1/1998,NULL,NA,NULL,Current
+173,NULL,Paint - Silver,NULL,6/1/1998,NULL,NA,NULL,Current
+174,NULL,Paint - Blue,NULL,6/1/1998,NULL,NA,NULL,Current
+175,NULL,Paint - Yellow,NULL,6/1/1998,NULL,NA,NULL,Current
+176,NULL,Pinch Bolt,NULL,6/1/1998,NULL,NA,NULL,Current
+177,NULL,Cup-Shaped Race,NULL,6/1/1998,NULL,NA,NULL,Current
+178,NULL,Cone-Shaped Race,NULL,6/1/1998,NULL,NA,NULL,Current
+179,NULL,Reflector,NULL,6/1/1998,NULL,NA,NULL,Current
+180,NULL,LL Mountain Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+181,NULL,ML Mountain Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+182,NULL,HL Mountain Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+183,NULL,LL Road Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+184,NULL,ML Road Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+185,NULL,HL Road Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+186,NULL,Touring Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+187,NULL,LL Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+188,NULL,ML Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+189,NULL,HL Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+190,NULL,LL Road Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+191,NULL,ML Road Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+192,NULL,HL Road Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+193,NULL,LL Touring Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+194,NULL,ML Touring Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+195,NULL,HL Touring Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+196,NULL,LL Spindle/Axle,NULL,6/1/1998,NULL,NA,NULL,Current
+197,NULL,HL Spindle/Axle,NULL,6/1/1998,NULL,NA,NULL,Current
+198,NULL,LL Shell,NULL,6/1/1998,NULL,NA,NULL,Current
+199,NULL,HL Shell,NULL,6/1/1998,NULL,NA,NULL,Current
+200,NULL,Spokes,NULL,6/1/1998,NULL,NA,NULL,Current
+201,NULL,Seat Lug,NULL,6/1/1998,NULL,NA,NULL,Current
+202,NULL,Stem,NULL,6/1/1998,NULL,NA,NULL,Current
+203,NULL,Seat Post,NULL,6/1/1998,NULL,NA,NULL,Current
+204,NULL,Steerer,NULL,6/1/1998,NULL,NA,NULL,Current
+205,NULL,Seat Stays,NULL,6/1/1998,NULL,NA,NULL,Current
+206,NULL,Seat Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+207,NULL,Top Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+208,NULL,Tension Pulley,NULL,6/1/1998,NULL,NA,NULL,Current
+209,NULL,Rear Derailleur Cage,NULL,6/1/1998,NULL,Silver,NULL,Current
+210,14,"HL Road Frame - Black, 58",NULL,6/1/1998,NULL,Black,58,Current
+211,14,"HL Road Frame - Red, 58",NULL,6/1/1998,NULL,Red,58,Current
+212,31,"Sport-100 Helmet, Red",$33.64 ,7/1/2005,30-Jun-02,Red,NULL,NULL
+213,31,"Sport-100 Helmet, Red",$33.64 ,7/1/2006,30-Jun-03,Red,NULL,NULL
+214,31,"Sport-100 Helmet, Red",$34.99 ,7/1/2007,NULL,Red,NULL,Current
+215,31,"Sport-100 Helmet, Black",$33.64 ,7/1/2005,30-Jun-02,Black,NULL,NULL
+216,31,"Sport-100 Helmet, Black",$33.64 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+217,31,"Sport-100 Helmet, Black",$34.99 ,7/1/2007,NULL,Black,NULL,Current
+218,23,"Mountain Bike Socks, M",$9.50 ,7/1/2005,30-Jun-02,White,M,NULL
+219,23,"Mountain Bike Socks, L",$9.50 ,7/1/2005,30-Jun-02,White,L,NULL
+220,31,"Sport-100 Helmet, Blue",$33.64 ,7/1/2005,30-Jun-02,Blue,NULL,NULL
+221,31,"Sport-100 Helmet, Blue",$33.64 ,7/1/2006,30-Jun-03,Blue,NULL,NULL
+222,31,"Sport-100 Helmet, Blue",$34.99 ,7/1/2007,NULL,Blue,NULL,Current
+223,19,AWC Logo Cap,$8.64 ,7/1/2005,30-Jun-02,Multi,NULL,NULL
+224,19,AWC Logo Cap,$8.64 ,7/1/2006,30-Jun-03,Multi,NULL,NULL
+225,19,AWC Logo Cap,$8.99 ,7/1/2007,NULL,Multi,NULL,Current
+226,21,"Long-Sleeve Logo Jersey, S",$48.07 ,7/1/2005,30-Jun-02,Multi,S,NULL
+227,21,"Long-Sleeve Logo Jersey, S",$48.07 ,7/1/2006,30-Jun-03,Multi,S,NULL
+228,21,"Long-Sleeve Logo Jersey, S",$49.99 ,7/1/2007,NULL,Multi,S,Current
+229,21,"Long-Sleeve Logo Jersey, M",$48.07 ,7/1/2005,30-Jun-02,Multi,M,NULL
+230,21,"Long-Sleeve Logo Jersey, M",$48.07 ,7/1/2006,30-Jun-03,Multi,M,NULL
+231,21,"Long-Sleeve Logo Jersey, M",$49.99 ,7/1/2007,NULL,Multi,M,Current
+232,21,"Long-Sleeve Logo Jersey, L",$48.07 ,7/1/2005,30-Jun-02,Multi,L,NULL
+233,21,"Long-Sleeve Logo Jersey, L",$48.07 ,7/1/2006,30-Jun-03,Multi,L,NULL
+234,21,"Long-Sleeve Logo Jersey, L",$49.99 ,7/1/2007,NULL,Multi,L,Current
+235,21,"Long-Sleeve Logo Jersey, XL",$48.07 ,7/1/2005,30-Jun-02,Multi,XL,NULL
+236,21,"Long-Sleeve Logo Jersey, XL",$48.07 ,7/1/2006,30-Jun-03,Multi,XL,NULL
+237,21,"Long-Sleeve Logo Jersey, XL",$49.99 ,7/1/2007,NULL,Multi,XL,Current
+238,14,"HL Road Frame - Red, 62","$1,263.46 ",7/1/2005,30-Jun-02,Red,62,NULL
+239,14,"HL Road Frame - Red, 62","$1,301.36 ",7/1/2006,30-Jun-03,Red,62,NULL
+240,14,"HL Road Frame - Red, 62","$1,431.50 ",7/1/2007,NULL,Red,62,Current
+241,14,"HL Road Frame - Red, 44","$1,263.46 ",7/1/2005,30-Jun-02,Red,44,NULL
+242,14,"HL Road Frame - Red, 44","$1,301.36 ",7/1/2006,30-Jun-03,Red,44,NULL
+243,14,"HL Road Frame - Red, 44","$1,431.50 ",7/1/2007,NULL,Red,44,Current
+244,14,"HL Road Frame - Red, 48","$1,263.46 ",7/1/2005,30-Jun-02,Red,48,NULL
+245,14,"HL Road Frame - Red, 48","$1,301.36 ",7/1/2006,30-Jun-03,Red,48,NULL
+246,14,"HL Road Frame - Red, 48","$1,431.50 ",7/1/2007,NULL,Red,48,Current
+247,14,"HL Road Frame - Red, 52","$1,263.46 ",7/1/2005,30-Jun-02,Red,52,NULL
+248,14,"HL Road Frame - Red, 52","$1,301.36 ",7/1/2006,30-Jun-03,Red,52,NULL
+249,14,"HL Road Frame - Red, 52","$1,431.50 ",7/1/2007,NULL,Red,52,Current
+250,14,"HL Road Frame - Red, 56","$1,263.46 ",7/1/2005,30-Jun-02,Red,56,NULL
+251,14,"HL Road Frame - Red, 56","$1,301.36 ",7/1/2006,30-Jun-03,Red,56,NULL
+252,14,"HL Road Frame - Red, 56","$1,431.50 ",7/1/2007,NULL,Red,56,Current
+253,14,"LL Road Frame - Black, 58",$297.63 ,7/1/2005,30-Jun-02,Black,58,NULL
+254,14,"LL Road Frame - Black, 58",$306.56 ,7/1/2006,30-Jun-03,Black,58,NULL
+255,14,"LL Road Frame - Black, 58",$337.22 ,7/1/2007,NULL,Black,58,Current
+256,14,"LL Road Frame - Black, 60",$297.63 ,7/1/2005,30-Jun-02,Black,60,NULL
+257,14,"LL Road Frame - Black, 60",$306.56 ,7/1/2006,30-Jun-03,Black,60,NULL
+258,14,"LL Road Frame - Black, 60",$337.22 ,7/1/2007,NULL,Black,60,Current
+259,14,"LL Road Frame - Black, 62",$297.63 ,7/1/2005,30-Jun-02,Black,62,NULL
+260,14,"LL Road Frame - Black, 62",$306.56 ,7/1/2006,30-Jun-03,Black,62,NULL
+261,14,"LL Road Frame - Black, 62",$337.22 ,7/1/2007,NULL,Black,62,Current
+262,14,"LL Road Frame - Red, 44",$306.56 ,7/1/2005,30-Jun-02,Red,44,NULL
+263,14,"LL Road Frame - Red, 44",$337.22 ,7/1/2006,30-Jun-03,Red,44,NULL
+264,14,"LL Road Frame - Red, 48",$306.56 ,7/1/2005,30-Jun-02,Red,48,NULL
+265,14,"LL Road Frame - Red, 48",$337.22 ,7/1/2006,30-Jun-03,Red,48,NULL
+266,14,"LL Road Frame - Red, 52",$306.56 ,7/1/2005,30-Jun-02,Red,52,NULL
+267,14,"LL Road Frame - Red, 52",$337.22 ,7/1/2006,30-Jun-03,Red,52,NULL
+268,14,"LL Road Frame - Red, 58",$306.56 ,7/1/2005,30-Jun-02,Red,58,NULL
+269,14,"LL Road Frame - Red, 58",$337.22 ,7/1/2006,30-Jun-03,Red,58,NULL
+270,14,"LL Road Frame - Red, 60",$306.56 ,7/1/2005,30-Jun-02,Red,60,NULL
+271,14,"LL Road Frame - Red, 60",$337.22 ,7/1/2006,30-Jun-03,Red,60,NULL
+272,14,"LL Road Frame - Red, 62",$306.56 ,7/1/2005,30-Jun-02,Red,62,NULL
+273,14,"LL Road Frame - Red, 62",$337.22 ,7/1/2006,30-Jun-03,Red,62,NULL
+274,14,"ML Road Frame - Red, 44",$594.83 ,7/1/2005,30-Jun-02,Red,44,NULL
+275,14,"ML Road Frame - Red, 48",$594.83 ,7/1/2005,30-Jun-02,Red,48,NULL
+276,14,"ML Road Frame - Red, 52",$594.83 ,7/1/2005,30-Jun-02,Red,52,NULL
+277,14,"ML Road Frame - Red, 58",$594.83 ,7/1/2005,30-Jun-02,Red,58,NULL
+278,14,"ML Road Frame - Red, 60",$594.83 ,7/1/2005,30-Jun-02,Red,60,NULL
+279,14,"LL Road Frame - Black, 44",$297.63 ,7/1/2005,30-Jun-02,Black,44,NULL
+280,14,"LL Road Frame - Black, 44",$306.56 ,7/1/2006,30-Jun-03,Black,44,NULL
+281,14,"LL Road Frame - Black, 44",$337.22 ,7/1/2007,NULL,Black,44,Current
+282,14,"LL Road Frame - Black, 48",$297.63 ,7/1/2005,30-Jun-02,Black,48,NULL
+283,14,"LL Road Frame - Black, 48",$306.56 ,7/1/2006,30-Jun-03,Black,48,NULL
+284,14,"LL Road Frame - Black, 48",$337.22 ,7/1/2007,NULL,Black,48,Current
+285,14,"LL Road Frame - Black, 52",$297.63 ,7/1/2005,30-Jun-02,Black,52,NULL
+286,14,"LL Road Frame - Black, 52",$306.56 ,7/1/2006,30-Jun-03,Black,52,NULL
+287,14,"LL Road Frame - Black, 52",$337.22 ,7/1/2007,NULL,Black,52,Current
+288,12,"HL Mountain Frame - Silver, 42","$1,204.32 ",7/1/2005,30-Jun-02,Silver,42,NULL
+289,12,"HL Mountain Frame - Silver, 42","$1,240.45 ",7/1/2006,30-Jun-03,Silver,42,NULL
+290,12,"HL Mountain Frame - Silver, 42","$1,364.50 ",7/1/2007,NULL,Silver,42,Current
+291,12,"HL Mountain Frame - Silver, 44","$1,364.50 ",7/1/2005,30-Jun-02,Silver,44,NULL
+292,12,"HL Mountain Frame - Silver, 48","$1,364.50 ",7/1/2005,30-Jun-02,Silver,48,NULL
+293,12,"HL Mountain Frame - Silver, 46","$1,204.32 ",7/1/2005,30-Jun-02,Silver,46,NULL
+294,12,"HL Mountain Frame - Silver, 46","$1,240.45 ",7/1/2006,30-Jun-03,Silver,46,NULL
+295,12,"HL Mountain Frame - Silver, 46","$1,364.50 ",7/1/2007,NULL,Silver,46,Current
+296,12,"HL Mountain Frame - Black, 42","$1,191.17 ",7/1/2005,30-Jun-02,Black,42,NULL
+297,12,"HL Mountain Frame - Black, 42","$1,226.91 ",7/1/2006,30-Jun-03,Black,42,NULL
+298,12,"HL Mountain Frame - Black, 42","$1,349.60 ",7/1/2007,NULL,Black,42,Current
+299,12,"HL Mountain Frame - Black, 44","$1,349.60 ",7/1/2005,30-Jun-02,Black,44,NULL
+300,12,"HL Mountain Frame - Black, 48","$1,349.60 ",7/1/2005,30-Jun-02,Black,48,NULL
+301,12,"HL Mountain Frame - Black, 46","$1,191.17 ",7/1/2005,30-Jun-02,Black,46,NULL
+302,12,"HL Mountain Frame - Black, 46","$1,226.91 ",7/1/2006,30-Jun-03,Black,46,NULL
+303,12,"HL Mountain Frame - Black, 46","$1,349.60 ",7/1/2007,NULL,Black,46,Current
+304,12,"HL Mountain Frame - Black, 38","$1,191.17 ",7/1/2005,30-Jun-02,Black,38,NULL
+305,12,"HL Mountain Frame - Black, 38","$1,226.91 ",7/1/2006,30-Jun-03,Black,38,NULL
+306,12,"HL Mountain Frame - Black, 38","$1,349.60 ",7/1/2007,NULL,Black,38,Current
+307,12,"HL Mountain Frame - Silver, 38","$1,204.32 ",7/1/2005,30-Jun-02,Silver,38,NULL
+308,12,"HL Mountain Frame - Silver, 38","$1,240.45 ",7/1/2006,30-Jun-03,Silver,38,NULL
+309,12,"HL Mountain Frame - Silver, 38","$1,364.50 ",7/1/2007,NULL,Silver,38,Current
+310,2,"Road-150 Red, 62","$3,578.27 ",7/1/2005,30-Jun-02,Red,62,NULL
+311,2,"Road-150 Red, 44","$3,578.27 ",7/1/2005,30-Jun-02,Red,44,NULL
+312,2,"Road-150 Red, 48","$3,578.27 ",7/1/2005,30-Jun-02,Red,48,NULL
+313,2,"Road-150 Red, 52","$3,578.27 ",7/1/2005,30-Jun-02,Red,52,NULL
+314,2,"Road-150 Red, 56","$3,578.27 ",7/1/2005,30-Jun-02,Red,56,NULL
+315,2,"Road-450 Red, 58","$1,457.99 ",7/1/2005,30-Jun-02,Red,58,NULL
+316,2,"Road-450 Red, 60","$1,457.99 ",7/1/2005,30-Jun-02,Red,60,NULL
+317,2,"Road-450 Red, 44","$1,457.99 ",7/1/2005,30-Jun-02,Red,44,NULL
+318,2,"Road-450 Red, 48","$1,457.99 ",7/1/2005,30-Jun-02,Red,48,NULL
+319,2,"Road-450 Red, 52","$1,457.99 ",7/1/2005,30-Jun-02,Red,52,NULL
+320,2,"Road-650 Red, 58",$699.10 ,7/1/2005,30-Jun-02,Red,58,NULL
+321,2,"Road-650 Red, 58",$782.99 ,7/1/2006,30-Jun-03,Red,58,NULL
+322,2,"Road-650 Red, 60",$699.10 ,7/1/2005,30-Jun-02,Red,60,NULL
+323,2,"Road-650 Red, 60",$782.99 ,7/1/2006,30-Jun-03,Red,60,NULL
+324,2,"Road-650 Red, 62",$699.10 ,7/1/2005,30-Jun-02,Red,62,NULL
+325,2,"Road-650 Red, 62",$782.99 ,7/1/2006,30-Jun-03,Red,62,NULL
+326,2,"Road-650 Red, 44",$699.10 ,7/1/2005,30-Jun-02,Red,44,NULL
+327,2,"Road-650 Red, 44",$782.99 ,7/1/2006,30-Jun-03,Red,44,NULL
+328,2,"Road-650 Red, 48",$699.10 ,7/1/2005,30-Jun-02,Red,48,NULL
+329,2,"Road-650 Red, 48",$782.99 ,7/1/2006,30-Jun-03,Red,48,NULL
+330,2,"Road-650 Red, 52",$699.10 ,7/1/2005,30-Jun-02,Red,52,NULL
+331,2,"Road-650 Red, 52",$782.99 ,7/1/2006,30-Jun-03,Red,52,NULL
+332,2,"Road-650 Black, 58",$699.10 ,7/1/2005,30-Jun-02,Black,58,NULL
+333,2,"Road-650 Black, 58",$782.99 ,7/1/2006,30-Jun-03,Black,58,NULL
+334,2,"Road-650 Black, 60",$699.10 ,7/1/2005,30-Jun-02,Black,60,NULL
+335,2,"Road-650 Black, 60",$782.99 ,7/1/2006,30-Jun-03,Black,60,NULL
+336,2,"Road-650 Black, 62",$699.10 ,7/1/2005,30-Jun-02,Black,62,NULL
+337,2,"Road-650 Black, 62",$782.99 ,7/1/2006,30-Jun-03,Black,62,NULL
+338,2,"Road-650 Black, 44",$699.10 ,7/1/2005,30-Jun-02,Black,44,NULL
+339,2,"Road-650 Black, 44",$782.99 ,7/1/2006,30-Jun-03,Black,44,NULL
+340,2,"Road-650 Black, 48",$699.10 ,7/1/2005,30-Jun-02,Black,48,NULL
+341,2,"Road-650 Black, 48",$782.99 ,7/1/2006,30-Jun-03,Black,48,NULL
+342,2,"Road-650 Black, 52",$699.10 ,7/1/2005,30-Jun-02,Black,52,NULL
+343,2,"Road-650 Black, 52",$782.99 ,7/1/2006,30-Jun-03,Black,52,NULL
+344,1,"Mountain-100 Silver, 38","$3,399.99 ",7/1/2005,30-Jun-02,Silver,38,NULL
+345,1,"Mountain-100 Silver, 42","$3,399.99 ",7/1/2005,30-Jun-02,Silver,42,NULL
+346,1,"Mountain-100 Silver, 44","$3,399.99 ",7/1/2005,30-Jun-02,Silver,44,NULL
+347,1,"Mountain-100 Silver, 48","$3,399.99 ",7/1/2005,30-Jun-02,Silver,48,NULL
+348,1,"Mountain-100 Black, 38","$3,374.99 ",7/1/2005,30-Jun-02,Black,38,NULL
+349,1,"Mountain-100 Black, 42","$3,374.99 ",7/1/2005,30-Jun-02,Black,42,NULL
+350,1,"Mountain-100 Black, 44","$3,374.99 ",7/1/2005,30-Jun-02,Black,44,NULL
+351,1,"Mountain-100 Black, 48","$3,374.99 ",7/1/2005,30-Jun-02,Black,48,NULL
+352,1,"Mountain-200 Silver, 38","$2,071.42 ",7/1/2006,30-Jun-03,Silver,38,NULL
+353,1,"Mountain-200 Silver, 38","$2,319.99 ",7/1/2007,NULL,Silver,38,Current
+354,1,"Mountain-200 Silver, 42","$2,071.42 ",7/1/2006,30-Jun-03,Silver,42,NULL
+355,1,"Mountain-200 Silver, 42","$2,319.99 ",7/1/2007,NULL,Silver,42,Current
+356,1,"Mountain-200 Silver, 46","$2,071.42 ",7/1/2006,30-Jun-03,Silver,46,NULL
+357,1,"Mountain-200 Silver, 46","$2,319.99 ",7/1/2007,NULL,Silver,46,Current
+358,1,"Mountain-200 Black, 38","$2,049.10 ",7/1/2006,30-Jun-03,Black,38,NULL
+359,1,"Mountain-200 Black, 38","$2,294.99 ",7/1/2007,NULL,Black,38,Current
+360,1,"Mountain-200 Black, 42","$2,049.10 ",7/1/2006,30-Jun-03,Black,42,NULL
+361,1,"Mountain-200 Black, 42","$2,294.99 ",7/1/2007,NULL,Black,42,Current
+362,1,"Mountain-200 Black, 46","$2,049.10 ",7/1/2006,30-Jun-03,Black,46,NULL
+363,1,"Mountain-200 Black, 46","$2,294.99 ",7/1/2007,NULL,Black,46,Current
+364,1,"Mountain-300 Black, 38","$1,079.99 ",7/1/2006,30-Jun-03,Black,38,NULL
+365,1,"Mountain-300 Black, 40","$1,079.99 ",7/1/2006,30-Jun-03,Black,40,NULL
+366,1,"Mountain-300 Black, 44","$1,079.99 ",7/1/2006,30-Jun-03,Black,44,NULL
+367,1,"Mountain-300 Black, 48","$1,079.99 ",7/1/2006,30-Jun-03,Black,48,NULL
+368,2,"Road-250 Red, 44","$2,443.35 ",7/1/2006,30-Jun-03,Red,44,NULL
+369,2,"Road-250 Red, 48","$2,443.35 ",7/1/2006,30-Jun-03,Red,48,NULL
+370,2,"Road-250 Red, 52","$2,443.35 ",7/1/2006,30-Jun-03,Red,52,NULL
+371,2,"Road-250 Red, 58","$2,181.56 ",7/1/2006,30-Jun-03,Red,58,NULL
+372,2,"Road-250 Red, 58","$2,443.35 ",7/1/2007,NULL,Red,58,Current
+373,2,"Road-250 Black, 44","$2,181.56 ",7/1/2006,30-Jun-03,Black,44,NULL
+374,2,"Road-250 Black, 44","$2,443.35 ",7/1/2007,NULL,Black,44,Current
+375,2,"Road-250 Black, 48","$2,181.56 ",7/1/2006,30-Jun-03,Black,48,NULL
+376,2,"Road-250 Black, 48","$2,443.35 ",7/1/2007,NULL,Black,48,Current
+377,2,"Road-250 Black, 52","$2,181.56 ",7/1/2006,30-Jun-03,Black,52,NULL
+378,2,"Road-250 Black, 52","$2,443.35 ",7/1/2007,NULL,Black,52,Current
+379,2,"Road-250 Black, 58","$2,181.56 ",7/1/2006,30-Jun-03,Black,58,NULL
+380,2,"Road-250 Black, 58","$2,443.35 ",7/1/2007,NULL,Black,58,Current
+381,2,"Road-550-W Yellow, 38","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,38,NULL
+382,2,"Road-550-W Yellow, 38","$1,120.49 ",7/1/2007,NULL,Yellow,38,Current
+383,2,"Road-550-W Yellow, 40","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,40,NULL
+384,2,"Road-550-W Yellow, 40","$1,120.49 ",7/1/2007,NULL,Yellow,40,Current
+385,2,"Road-550-W Yellow, 42","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,42,NULL
+386,2,"Road-550-W Yellow, 42","$1,120.49 ",7/1/2007,NULL,Yellow,42,Current
+387,2,"Road-550-W Yellow, 44","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,44,NULL
+388,2,"Road-550-W Yellow, 44","$1,120.49 ",7/1/2007,NULL,Yellow,44,Current
+389,2,"Road-550-W Yellow, 48","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,48,NULL
+390,2,"Road-550-W Yellow, 48","$1,120.49 ",7/1/2007,NULL,Yellow,48,Current
+391,10,LL Fork,$148.22 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+392,10,ML Fork,$175.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+393,10,HL Fork,$229.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+394,11,LL Headset,$34.20 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+395,11,ML Headset,$102.29 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+396,11,HL Headset,$124.73 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+397,4,LL Mountain Handlebars,$40.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+398,4,LL Mountain Handlebars,$44.54 ,7/1/2007,NULL,NA,NULL,Current
+399,4,ML Mountain Handlebars,$56.29 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+400,4,ML Mountain Handlebars,$61.92 ,7/1/2007,NULL,NA,NULL,Current
+401,4,HL Mountain Handlebars,$109.34 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+402,4,HL Mountain Handlebars,$120.27 ,7/1/2007,NULL,NA,NULL,Current
+403,4,LL Road Handlebars,$40.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+404,4,LL Road Handlebars,$44.54 ,7/1/2007,NULL,NA,NULL,Current
+405,4,ML Road Handlebars,$56.29 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+406,4,ML Road Handlebars,$61.92 ,7/1/2007,NULL,NA,NULL,Current
+407,4,HL Road Handlebars,$109.34 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+408,4,HL Road Handlebars,$120.27 ,7/1/2007,NULL,NA,NULL,Current
+409,12,"ML Mountain Frame - Black, 38",$348.76 ,7/1/2006,30-Jun-03,Black,38,NULL
+410,17,LL Mountain Front Wheel,$60.75 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+411,17,ML Mountain Front Wheel,$209.03 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+412,17,HL Mountain Front Wheel,$300.22 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+413,17,LL Road Front Wheel,$85.57 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+414,17,ML Road Front Wheel,$248.39 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+415,17,HL Road Front Wheel,$330.06 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+416,17,Touring Front Wheel,$218.01 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+417,14,"ML Road Frame-W - Yellow, 38",$540.75 ,7/1/2006,30-Jun-03,Yellow,38,NULL
+418,14,"ML Road Frame-W - Yellow, 38",$594.83 ,7/1/2007,NULL,Yellow,38,Current
+419,17,LL Mountain Rear Wheel,$87.75 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+420,17,ML Mountain Rear Wheel,$236.03 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+421,17,HL Mountain Rear Wheel,$327.22 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+422,17,LL Road Rear Wheel,$112.57 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+423,17,ML Road Rear Wheel,$275.39 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+424,17,HL Road Rear Wheel,$357.06 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+425,17,Touring Rear Wheel,$245.01 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+426,12,"ML Mountain Frame - Black, 40",$348.76 ,7/1/2006,30-Jun-03,Black,40,NULL
+427,12,"ML Mountain Frame - Black, 44",$348.76 ,7/1/2006,30-Jun-03,Black,44,NULL
+428,12,"ML Mountain Frame - Black, 48",$348.76 ,7/1/2006,30-Jun-03,Black,48,NULL
+429,14,"ML Road Frame-W - Yellow, 40",$540.75 ,7/1/2006,30-Jun-03,Yellow,40,NULL
+430,14,"ML Road Frame-W - Yellow, 40",$594.83 ,7/1/2007,NULL,Yellow,40,Current
+431,14,"ML Road Frame-W - Yellow, 42",$540.75 ,7/1/2006,30-Jun-03,Yellow,42,NULL
+432,14,"ML Road Frame-W - Yellow, 42",$594.83 ,7/1/2007,NULL,Yellow,42,Current
+433,14,"ML Road Frame-W - Yellow, 44",$540.75 ,7/1/2006,30-Jun-03,Yellow,44,NULL
+434,14,"ML Road Frame-W - Yellow, 44",$594.83 ,7/1/2007,NULL,Yellow,44,Current
+435,14,"ML Road Frame-W - Yellow, 48",$540.75 ,7/1/2006,30-Jun-03,Yellow,48,NULL
+436,14,"ML Road Frame-W - Yellow, 48",$594.83 ,7/1/2007,NULL,Yellow,48,Current
+437,14,"HL Road Frame - Black, 62","$1,301.36 ",7/1/2006,30-Jun-03,Black,62,NULL
+438,14,"HL Road Frame - Black, 62","$1,431.50 ",7/1/2007,NULL,Black,62,Current
+439,14,"HL Road Frame - Black, 44","$1,301.36 ",7/1/2006,30-Jun-03,Black,44,NULL
+440,14,"HL Road Frame - Black, 44","$1,431.50 ",7/1/2007,NULL,Black,44,Current
+441,14,"HL Road Frame - Black, 48","$1,301.36 ",7/1/2006,30-Jun-03,Black,48,NULL
+442,14,"HL Road Frame - Black, 48","$1,431.50 ",7/1/2007,NULL,Black,48,Current
+443,14,"HL Road Frame - Black, 52","$1,301.36 ",7/1/2006,30-Jun-03,Black,52,NULL
+444,14,"HL Road Frame - Black, 52","$1,431.50 ",7/1/2007,NULL,Black,52,Current
+445,22,"Men's Sports Shorts, S",$59.99 ,7/1/2006,30-Jun-03,Black,S,NULL
+446,35,"Touring-Panniers, Large",$125.00 ,7/1/2006,30-Jun-03,Grey,NULL,NULL
+447,34,Cable Lock,$25.00 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+448,36,Minipump,$19.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+449,36,Mountain Pump,$24.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+450,33,Taillights - Battery-Powered,$13.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+451,33,Headlights - Dual-Beam,$34.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+452,33,Headlights - Weatherproof,$44.99 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+453,22,"Men's Sports Shorts, M",$59.99 ,7/1/2006,30-Jun-03,Black,M,NULL
+454,22,"Men's Sports Shorts, L",$59.99 ,7/1/2006,30-Jun-03,Black,L,NULL
+455,22,"Men's Sports Shorts, XL",$59.99 ,7/1/2006,30-Jun-03,Black,XL,NULL
+456,24,"Women's Tights, S",$74.99 ,7/1/2006,30-Jun-03,Black,S,NULL
+457,24,"Women's Tights, M",$74.99 ,7/1/2006,30-Jun-03,Black,M,NULL
+458,24,"Women's Tights, L",$74.99 ,7/1/2006,30-Jun-03,Black,L,NULL
+459,18,"Men's Bib-Shorts, S",$89.99 ,7/1/2006,30-Jun-03,Multi,S,NULL
+460,18,"Men's Bib-Shorts, M",$89.99 ,7/1/2006,30-Jun-03,Multi,M,NULL
+461,18,"Men's Bib-Shorts, L",$89.99 ,7/1/2006,30-Jun-03,Multi,L,NULL
+462,20,"Half-Finger Gloves, S",$23.55 ,7/1/2006,30-Jun-03,Black,S,NULL
+463,20,"Half-Finger Gloves, S",$24.49 ,7/1/2007,NULL,Black,S,Current
+464,20,"Half-Finger Gloves, M",$23.55 ,7/1/2006,30-Jun-03,Black,M,NULL
+465,20,"Half-Finger Gloves, M",$24.49 ,7/1/2007,NULL,Black,M,Current
+466,20,"Half-Finger Gloves, L",$23.55 ,7/1/2006,30-Jun-03,Black,L,NULL
+467,20,"Half-Finger Gloves, L",$24.49 ,7/1/2007,NULL,Black,L,Current
+468,20,"Full-Finger Gloves, S",$37.99 ,7/1/2006,30-Jun-03,Black,S,NULL
+469,20,"Full-Finger Gloves, M",$37.99 ,7/1/2006,30-Jun-03,Black,M,NULL
+470,20,"Full-Finger Gloves, L",$37.99 ,7/1/2006,30-Jun-03,Black,L,NULL
+471,25,"Classic Vest, S",$63.50 ,7/1/2007,NULL,Blue,S,Current
+472,25,"Classic Vest, M",$63.50 ,7/1/2007,NULL,Blue,M,Current
+473,25,"Classic Vest, L",$63.50 ,7/1/2007,NULL,Blue,L,Current
+474,22,"Women's Mountain Shorts, S",$69.99 ,7/1/2007,NULL,Black,S,Current
+475,22,"Women's Mountain Shorts, M",$69.99 ,7/1/2007,NULL,Black,M,Current
+476,22,"Women's Mountain Shorts, L",$69.99 ,7/1/2007,NULL,Black,L,Current
+477,28,Water Bottle - 30 oz.,$4.99 ,7/1/2007,NULL,NA,NULL,Current
+478,28,Mountain Bottle Cage,$9.99 ,7/1/2007,NULL,NA,NULL,Current
+479,28,Road Bottle Cage,$8.99 ,7/1/2007,NULL,NA,NULL,Current
+480,37,Patch Kit/8 Patches,$2.29 ,7/1/2007,NULL,NA,NULL,Current
+481,23,"Racing Socks, M",$8.99 ,7/1/2007,NULL,White,M,Current
+482,23,"Racing Socks, L",$8.99 ,7/1/2007,NULL,White,L,Current
+483,26,Hitch Rack - 4-Bike,$120.00 ,7/1/2007,NULL,NA,NULL,Current
+484,29,Bike Wash - Dissolver,$7.95 ,7/1/2007,NULL,NA,NULL,Current
+485,30,Fender Set - Mountain,$21.98 ,7/1/2007,NULL,NA,NULL,Current
+486,27,All-Purpose Bike Stand,$159.00 ,7/1/2007,NULL,NA,NULL,Current
+487,32,Hydration Pack - 70 oz.,$54.99 ,7/1/2007,NULL,Silver,70,Current
+488,21,"Short-Sleeve Classic Jersey, S",$53.99 ,7/1/2007,NULL,Yellow,S,Current
+489,21,"Short-Sleeve Classic Jersey, M",$53.99 ,7/1/2007,NULL,Yellow,M,Current
+490,21,"Short-Sleeve Classic Jersey, L",$53.99 ,7/1/2007,NULL,Yellow,L,Current
+491,21,"Short-Sleeve Classic Jersey, XL",$53.99 ,7/1/2007,NULL,Yellow,XL,Current
+492,16,"HL Touring Frame - Yellow, 60","$1,003.91 ",7/1/2007,NULL,Yellow,60,Current
+493,16,"LL Touring Frame - Yellow, 62",$333.42 ,7/1/2007,NULL,Yellow,62,Current
+494,16,"HL Touring Frame - Yellow, 46","$1,003.91 ",7/1/2007,NULL,Yellow,46,Current
+495,16,"HL Touring Frame - Yellow, 50","$1,003.91 ",7/1/2007,NULL,Yellow,50,Current
+496,16,"HL Touring Frame - Yellow, 54","$1,003.91 ",7/1/2007,NULL,Yellow,54,Current
+497,16,"HL Touring Frame - Blue, 46","$1,003.91 ",7/1/2007,NULL,Blue,46,Current
+498,16,"HL Touring Frame - Blue, 50","$1,003.91 ",7/1/2007,NULL,Blue,50,Current
+499,16,"HL Touring Frame - Blue, 54","$1,003.91 ",7/1/2007,NULL,Blue,54,Current
+500,16,"HL Touring Frame - Blue, 60","$1,003.91 ",7/1/2007,NULL,Blue,60,Current
+501,9,Rear Derailleur,$121.46 ,7/1/2007,NULL,Silver,NULL,Current
+502,16,"LL Touring Frame - Blue, 50",$333.42 ,7/1/2007,NULL,Blue,50,Current
+503,16,"LL Touring Frame - Blue, 54",$333.42 ,7/1/2007,NULL,Blue,54,Current
+504,16,"LL Touring Frame - Blue, 58",$333.42 ,7/1/2007,NULL,Blue,58,Current
+505,16,"LL Touring Frame - Blue, 62",$333.42 ,7/1/2007,NULL,Blue,62,Current
+506,16,"LL Touring Frame - Yellow, 44",$333.42 ,7/1/2007,NULL,Yellow,44,Current
+507,16,"LL Touring Frame - Yellow, 50",$333.42 ,7/1/2007,NULL,Yellow,50,Current
+508,16,"LL Touring Frame - Yellow, 54",$333.42 ,7/1/2007,NULL,Yellow,54,Current
+509,16,"LL Touring Frame - Yellow, 58",$333.42 ,7/1/2007,NULL,Yellow,58,Current
+510,16,"LL Touring Frame - Blue, 44",$333.42 ,7/1/2007,NULL,Blue,44,Current
+511,12,"ML Mountain Frame-W - Silver, 40",$364.09 ,7/1/2007,NULL,Silver,40,Current
+512,12,"ML Mountain Frame-W - Silver, 42",$364.09 ,7/1/2007,NULL,Silver,42,Current
+513,12,"ML Mountain Frame-W - Silver, 46",$364.09 ,7/1/2007,NULL,Silver,46,Current
+514,6,Rear Brakes,$106.50 ,7/1/2007,NULL,Silver,NULL,Current
+515,15,LL Mountain Seat/Saddle,$27.12 ,7/1/2007,NULL,NA,NULL,Current
+516,15,ML Mountain Seat/Saddle,$39.14 ,7/1/2007,NULL,NA,NULL,Current
+517,15,HL Mountain Seat/Saddle,$52.64 ,7/1/2007,NULL,NA,NULL,Current
+518,15,LL Road Seat/Saddle,$27.12 ,7/1/2007,NULL,NA,NULL,Current
+519,15,ML Road Seat/Saddle,$39.14 ,7/1/2007,NULL,NA,NULL,Current
+520,15,HL Road Seat/Saddle,$52.64 ,7/1/2007,NULL,NA,NULL,Current
+521,15,LL Touring Seat/Saddle,$27.12 ,7/1/2007,NULL,NA,NULL,Current
+522,15,ML Touring Seat/Saddle,$39.14 ,7/1/2007,NULL,NA,NULL,Current
+523,15,HL Touring Seat/Saddle,$52.64 ,7/1/2007,NULL,NA,NULL,Current
+524,12,"LL Mountain Frame - Silver, 42",$264.05 ,7/1/2007,NULL,Silver,42,Current
+525,12,"LL Mountain Frame - Silver, 44",$264.05 ,7/1/2007,NULL,Silver,44,Current
+526,12,"LL Mountain Frame - Silver, 48",$264.05 ,7/1/2007,NULL,Silver,48,Current
+527,12,"LL Mountain Frame - Silver, 52",$264.05 ,7/1/2007,NULL,Silver,52,Current
+528,37,Mountain Tire Tube,$4.99 ,7/1/2007,NULL,NA,NULL,Current
+529,37,Road Tire Tube,$3.99 ,7/1/2007,NULL,NA,NULL,Current
+530,37,Touring Tire Tube,$4.99 ,7/1/2007,NULL,NA,NULL,Current
+531,12,"LL Mountain Frame - Black, 42",$249.79 ,7/1/2007,NULL,Black,42,Current
+532,12,"LL Mountain Frame - Black, 44",$249.79 ,7/1/2007,NULL,Black,44,Current
+533,12,"LL Mountain Frame - Black, 48",$249.79 ,7/1/2007,NULL,Black,48,Current
+534,12,"LL Mountain Frame - Black, 52",$249.79 ,7/1/2007,NULL,Black,52,Current
+535,37,LL Mountain Tire,$24.99 ,7/1/2007,NULL,NA,NULL,Current
+536,37,ML Mountain Tire,$29.99 ,7/1/2007,NULL,NA,NULL,Current
+537,37,HL Mountain Tire,$35.00 ,7/1/2007,NULL,NA,NULL,Current
+538,37,LL Road Tire,$21.49 ,7/1/2007,NULL,NA,NULL,Current
+539,37,ML Road Tire,$24.99 ,7/1/2007,NULL,NA,NULL,Current
+540,37,HL Road Tire,$32.60 ,7/1/2007,NULL,NA,NULL,Current
+541,37,Touring Tire,$28.99 ,7/1/2007,NULL,NA,NULL,Current
+542,13,LL Mountain Pedal,$40.49 ,7/1/2007,NULL,Silver/Black,NULL,Current
+543,13,ML Mountain Pedal,$62.09 ,7/1/2007,NULL,Silver/Black,NULL,Current
+544,13,HL Mountain Pedal,$80.99 ,7/1/2007,NULL,Silver/Black,NULL,Current
+545,13,LL Road Pedal,$40.49 ,7/1/2007,NULL,Silver/Black,NULL,Current
+546,13,ML Road Pedal,$62.09 ,7/1/2007,NULL,Silver/Black,NULL,Current
+547,13,HL Road Pedal,$80.99 ,7/1/2007,NULL,Silver/Black,NULL,Current
+548,13,Touring Pedal,$80.99 ,7/1/2007,NULL,Silver/Black,NULL,Current
+549,12,"ML Mountain Frame-W - Silver, 38",$364.09 ,7/1/2007,NULL,Silver,38,Current
+550,12,"LL Mountain Frame - Black, 40",$249.79 ,7/1/2007,NULL,Black,40,Current
+551,12,"LL Mountain Frame - Silver, 40",$264.05 ,7/1/2007,NULL,Silver,40,Current
+552,9,Front Derailleur,$91.49 ,7/1/2007,NULL,Silver,NULL,Current
+553,4,LL Touring Handlebars,$46.09 ,7/1/2007,NULL,NA,NULL,Current
+554,4,HL Touring Handlebars,$91.57 ,7/1/2007,NULL,NA,NULL,Current
+555,6,Front Brakes,$106.50 ,7/1/2007,NULL,Silver,NULL,Current
+556,8,LL Crankset,$175.49 ,7/1/2007,NULL,Black,NULL,Current
+557,8,ML Crankset,$256.49 ,7/1/2007,NULL,Black,NULL,Current
+558,8,HL Crankset,$404.99 ,7/1/2007,NULL,Black,NULL,Current
+559,7,Chain,$20.24 ,7/1/2007,NULL,Silver,NULL,Current
+560,3,"Touring-2000 Blue, 60","$1,214.85 ",7/1/2007,NULL,Blue,60,Current
+561,3,"Touring-1000 Yellow, 46","$2,384.07 ",7/1/2007,NULL,Yellow,46,Current
+562,3,"Touring-1000 Yellow, 50","$2,384.07 ",7/1/2007,NULL,Yellow,50,Current
+563,3,"Touring-1000 Yellow, 54","$2,384.07 ",7/1/2007,NULL,Yellow,54,Current
+564,3,"Touring-1000 Yellow, 60","$2,384.07 ",7/1/2007,NULL,Yellow,60,Current
+565,3,"Touring-3000 Blue, 54",$742.35 ,7/1/2007,NULL,Blue,54,Current
+566,3,"Touring-3000 Blue, 58",$742.35 ,7/1/2007,NULL,Blue,58,Current
+567,3,"Touring-3000 Blue, 62",$742.35 ,7/1/2007,NULL,Blue,62,Current
+568,3,"Touring-3000 Yellow, 44",$742.35 ,7/1/2007,NULL,Yellow,44,Current
+569,3,"Touring-3000 Yellow, 50",$742.35 ,7/1/2007,NULL,Yellow,50,Current
+570,3,"Touring-3000 Yellow, 54",$742.35 ,7/1/2007,NULL,Yellow,54,Current
+571,3,"Touring-3000 Yellow, 58",$742.35 ,7/1/2007,NULL,Yellow,58,Current
+572,3,"Touring-3000 Yellow, 62",$742.35 ,7/1/2007,NULL,Yellow,62,Current
+573,3,"Touring-1000 Blue, 46","$2,384.07 ",7/1/2007,NULL,Blue,46,Current
+574,3,"Touring-1000 Blue, 50","$2,384.07 ",7/1/2007,NULL,Blue,50,Current
+575,3,"Touring-1000 Blue, 54","$2,384.07 ",7/1/2007,NULL,Blue,54,Current
+576,3,"Touring-1000 Blue, 60","$2,384.07 ",7/1/2007,NULL,Blue,60,Current
+577,3,"Touring-2000 Blue, 46","$1,214.85 ",7/1/2007,NULL,Blue,46,Current
+578,3,"Touring-2000 Blue, 50","$1,214.85 ",7/1/2007,NULL,Blue,50,Current
+579,3,"Touring-2000 Blue, 54","$1,214.85 ",7/1/2007,NULL,Blue,54,Current
+580,2,"Road-350-W Yellow, 40","$1,700.99 ",7/1/2007,NULL,Yellow,40,Current
+581,2,"Road-350-W Yellow, 42","$1,700.99 ",7/1/2007,NULL,Yellow,42,Current
+582,2,"Road-350-W Yellow, 44","$1,700.99 ",7/1/2007,NULL,Yellow,44,Current
+583,2,"Road-350-W Yellow, 48","$1,700.99 ",7/1/2007,NULL,Yellow,48,Current
+584,2,"Road-750 Black, 58",$539.99 ,7/1/2007,NULL,Black,58,Current
+585,3,"Touring-3000 Blue, 44",$742.35 ,7/1/2007,NULL,Blue,44,Current
+586,3,"Touring-3000 Blue, 50",$742.35 ,7/1/2007,NULL,Blue,50,Current
+587,1,"Mountain-400-W Silver, 38",$769.49 ,7/1/2007,NULL,Silver,38,Current
+588,1,"Mountain-400-W Silver, 40",$769.49 ,7/1/2007,NULL,Silver,40,Current
+589,1,"Mountain-400-W Silver, 42",$769.49 ,7/1/2007,NULL,Silver,42,Current
+590,1,"Mountain-400-W Silver, 46",$769.49 ,7/1/2007,NULL,Silver,46,Current
+591,1,"Mountain-500 Silver, 40",$564.99 ,7/1/2007,NULL,Silver,40,Current
+592,1,"Mountain-500 Silver, 42",$564.99 ,7/1/2007,NULL,Silver,42,Current
+593,1,"Mountain-500 Silver, 44",$564.99 ,7/1/2007,NULL,Silver,44,Current
+594,1,"Mountain-500 Silver, 48",$564.99 ,7/1/2007,NULL,Silver,48,Current
+595,1,"Mountain-500 Silver, 52",$564.99 ,7/1/2007,NULL,Silver,52,Current
+596,1,"Mountain-500 Black, 40",$539.99 ,7/1/2007,NULL,Black,40,Current
+597,1,"Mountain-500 Black, 42",$539.99 ,7/1/2007,NULL,Black,42,Current
+598,1,"Mountain-500 Black, 44",$539.99 ,7/1/2007,NULL,Black,44,Current
+599,1,"Mountain-500 Black, 48",$539.99 ,7/1/2007,NULL,Black,48,Current
+600,1,"Mountain-500 Black, 52",$539.99 ,7/1/2007,NULL,Black,52,Current
+601,5,LL Bottom Bracket,$53.99 ,7/1/2007,NULL,NA,NULL,Current
+602,5,ML Bottom Bracket,$101.24 ,7/1/2007,NULL,NA,NULL,Current
+603,5,HL Bottom Bracket,$121.49 ,7/1/2007,NULL,NA,NULL,Current
+604,2,"Road-750 Black, 44",$539.99 ,7/1/2007,NULL,Black,44,Current
+605,2,"Road-750 Black, 48",$539.99 ,7/1/2007,NULL,Black,48,Current
+606,2,"Road-750 Black, 52",$539.99 ,7/1/2007,NULL,Black,52,Current
+1,NULL,Adjustable Race,NULL,6/1/1998,NULL,NA,NULL,Current
+2,NULL,Bearing Ball,NULL,6/1/1998,NULL,NA,NULL,Current
+3,NULL,BB Ball Bearing,NULL,6/1/1998,NULL,NA,NULL,Current
+4,NULL,Headset Ball Bearings,NULL,6/1/1998,NULL,NA,NULL,Current
+5,NULL,Blade,NULL,6/1/1998,NULL,NA,NULL,Current
+6,NULL,LL Crankarm,NULL,6/1/1998,NULL,Black,NULL,Current
+7,NULL,ML Crankarm,NULL,6/1/1998,NULL,Black,NULL,Current
+8,NULL,HL Crankarm,NULL,6/1/1998,NULL,Black,NULL,Current
+9,NULL,Chainring Bolts,NULL,6/1/1998,NULL,Silver,NULL,Current
+10,NULL,Chainring Nut,NULL,6/1/1998,NULL,Silver,NULL,Current
+11,NULL,Chainring,NULL,6/1/1998,NULL,Black,NULL,Current
+12,NULL,Crown Race,NULL,6/1/1998,NULL,NA,NULL,Current
+13,NULL,Chain Stays,NULL,6/1/1998,NULL,NA,NULL,Current
+14,NULL,Decal 1,NULL,6/1/1998,NULL,NA,NULL,Current
+15,NULL,Decal 2,NULL,6/1/1998,NULL,NA,NULL,Current
+16,NULL,Down Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+17,NULL,Mountain End Caps,NULL,6/1/1998,NULL,NA,NULL,Current
+18,NULL,Road End Caps,NULL,6/1/1998,NULL,NA,NULL,Current
+19,NULL,Touring End Caps,NULL,6/1/1998,NULL,NA,NULL,Current
+20,NULL,Fork End,NULL,6/1/1998,NULL,NA,NULL,Current
+21,NULL,Freewheel,NULL,6/1/1998,NULL,Silver,NULL,Current
+22,NULL,Flat Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+23,NULL,Flat Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+24,NULL,Flat Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+25,NULL,Flat Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+26,NULL,Flat Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+27,NULL,Flat Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+28,NULL,Flat Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+29,NULL,Flat Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+30,NULL,Flat Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+31,NULL,Fork Crown,NULL,6/1/1998,NULL,NA,NULL,Current
+32,NULL,Front Derailleur Cage,NULL,6/1/1998,NULL,Silver,NULL,Current
+33,NULL,Front Derailleur Linkage,NULL,6/1/1998,NULL,Silver,NULL,Current
+34,NULL,Guide Pulley,NULL,6/1/1998,NULL,NA,NULL,Current
+35,NULL,LL Grip Tape,NULL,6/1/1998,NULL,NA,NULL,Current
+36,NULL,ML Grip Tape,NULL,6/1/1998,NULL,NA,NULL,Current
+37,NULL,HL Grip Tape,NULL,6/1/1998,NULL,NA,NULL,Current
+38,NULL,Thin-Jam Hex Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+39,NULL,Thin-Jam Hex Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+40,NULL,Thin-Jam Hex Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+41,NULL,Thin-Jam Hex Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+42,NULL,Thin-Jam Hex Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+43,NULL,Thin-Jam Hex Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+44,NULL,Thin-Jam Hex Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+45,NULL,Thin-Jam Hex Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+46,NULL,Thin-Jam Hex Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+47,NULL,Thin-Jam Hex Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+48,NULL,Thin-Jam Hex Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+49,NULL,Thin-Jam Hex Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+50,NULL,Thin-Jam Hex Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+51,NULL,Thin-Jam Hex Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+52,NULL,Thin-Jam Hex Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+53,NULL,Thin-Jam Hex Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+54,NULL,Hex Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+55,NULL,Hex Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+56,NULL,Hex Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+57,NULL,Hex Nut 17,NULL,6/1/1998,NULL,NA,NULL,Current
+58,NULL,Hex Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+59,NULL,Hex Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+60,NULL,Hex Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+61,NULL,Hex Nut 22,NULL,6/1/1998,NULL,NA,NULL,Current
+62,NULL,Hex Nut 23,NULL,6/1/1998,NULL,NA,NULL,Current
+63,NULL,Hex Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+64,NULL,Hex Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+65,NULL,Hex Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+66,NULL,Hex Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+67,NULL,Hex Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+68,NULL,Hex Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+69,NULL,Hex Nut 20,NULL,6/1/1998,NULL,NA,NULL,Current
+70,NULL,Hex Nut 21,NULL,6/1/1998,NULL,NA,NULL,Current
+71,NULL,Hex Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+72,NULL,Hex Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+73,NULL,Hex Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+74,NULL,Hex Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+75,NULL,Hex Nut 18,NULL,6/1/1998,NULL,NA,NULL,Current
+76,NULL,Hex Nut 19,NULL,6/1/1998,NULL,NA,NULL,Current
+77,NULL,Handlebar Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+78,NULL,Head Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+79,NULL,LL Hub,NULL,6/1/1998,NULL,NA,NULL,Current
+80,NULL,HL Hub,NULL,6/1/1998,NULL,NA,NULL,Current
+81,NULL,Keyed Washer,NULL,6/1/1998,NULL,NA,NULL,Current
+82,NULL,External Lock Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+83,NULL,External Lock Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+84,NULL,External Lock Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+85,NULL,External Lock Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+86,NULL,External Lock Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+87,NULL,External Lock Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+88,NULL,External Lock Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+89,NULL,External Lock Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+90,NULL,External Lock Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+91,NULL,Internal Lock Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+92,NULL,Internal Lock Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+93,NULL,Internal Lock Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+94,NULL,Internal Lock Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+95,NULL,Internal Lock Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+96,NULL,Internal Lock Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+97,NULL,Internal Lock Washer 10,NULL,6/1/1998,NULL,NA,NULL,Current
+98,NULL,Internal Lock Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+99,NULL,Internal Lock Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+100,NULL,Internal Lock Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+101,NULL,Thin-Jam Lock Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+102,NULL,Thin-Jam Lock Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+103,NULL,Thin-Jam Lock Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+104,NULL,Thin-Jam Lock Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+105,NULL,Thin-Jam Lock Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+106,NULL,Thin-Jam Lock Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+107,NULL,Thin-Jam Lock Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+108,NULL,Thin-Jam Lock Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+109,NULL,Thin-Jam Lock Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+110,NULL,Thin-Jam Lock Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+111,NULL,Thin-Jam Lock Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+112,NULL,Thin-Jam Lock Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+113,NULL,Thin-Jam Lock Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+114,NULL,Thin-Jam Lock Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+115,NULL,Thin-Jam Lock Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+116,NULL,Thin-Jam Lock Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+117,NULL,Lock Nut 5,NULL,6/1/1998,NULL,NA,NULL,Current
+118,NULL,Lock Nut 6,NULL,6/1/1998,NULL,NA,NULL,Current
+119,NULL,Lock Nut 16,NULL,6/1/1998,NULL,NA,NULL,Current
+120,NULL,Lock Nut 17,NULL,6/1/1998,NULL,NA,NULL,Current
+121,NULL,Lock Nut 7,NULL,6/1/1998,NULL,NA,NULL,Current
+122,NULL,Lock Nut 8,NULL,6/1/1998,NULL,NA,NULL,Current
+123,NULL,Lock Nut 9,NULL,6/1/1998,NULL,NA,NULL,Current
+124,NULL,Lock Nut 22,NULL,6/1/1998,NULL,NA,NULL,Current
+125,NULL,Lock Nut 23,NULL,6/1/1998,NULL,NA,NULL,Current
+126,NULL,Lock Nut 12,NULL,6/1/1998,NULL,NA,NULL,Current
+127,NULL,Lock Nut 13,NULL,6/1/1998,NULL,NA,NULL,Current
+128,NULL,Lock Nut 1,NULL,6/1/1998,NULL,NA,NULL,Current
+129,NULL,Lock Nut 10,NULL,6/1/1998,NULL,NA,NULL,Current
+130,NULL,Lock Nut 11,NULL,6/1/1998,NULL,NA,NULL,Current
+131,NULL,Lock Nut 2,NULL,6/1/1998,NULL,NA,NULL,Current
+132,NULL,Lock Nut 20,NULL,6/1/1998,NULL,NA,NULL,Current
+133,NULL,Lock Nut 21,NULL,6/1/1998,NULL,NA,NULL,Current
+134,NULL,Lock Nut 3,NULL,6/1/1998,NULL,NA,NULL,Current
+135,NULL,Lock Nut 14,NULL,6/1/1998,NULL,NA,NULL,Current
+136,NULL,Lock Nut 15,NULL,6/1/1998,NULL,NA,NULL,Current
+137,NULL,Lock Nut 4,NULL,6/1/1998,NULL,NA,NULL,Current
+138,NULL,Lock Nut 19,NULL,6/1/1998,NULL,NA,NULL,Current
+139,NULL,Lock Nut 18,NULL,6/1/1998,NULL,NA,NULL,Current
+140,NULL,Lock Ring,NULL,6/1/1998,NULL,Silver,NULL,Current
+141,NULL,Lower Head Race,NULL,6/1/1998,NULL,NA,NULL,Current
+142,NULL,Lock Washer 4,NULL,6/1/1998,NULL,NA,NULL,Current
+143,NULL,Lock Washer 5,NULL,6/1/1998,NULL,NA,NULL,Current
+144,NULL,Lock Washer 10,NULL,6/1/1998,NULL,NA,NULL,Current
+145,NULL,Lock Washer 6,NULL,6/1/1998,NULL,NA,NULL,Current
+146,NULL,Lock Washer 13,NULL,6/1/1998,NULL,NA,NULL,Current
+147,NULL,Lock Washer 8,NULL,6/1/1998,NULL,NA,NULL,Current
+148,NULL,Lock Washer 1,NULL,6/1/1998,NULL,NA,NULL,Current
+149,NULL,Lock Washer 7,NULL,6/1/1998,NULL,NA,NULL,Current
+150,NULL,Lock Washer 12,NULL,6/1/1998,NULL,NA,NULL,Current
+151,NULL,Lock Washer 2,NULL,6/1/1998,NULL,NA,NULL,Current
+152,NULL,Lock Washer 9,NULL,6/1/1998,NULL,NA,NULL,Current
+153,NULL,Lock Washer 3,NULL,6/1/1998,NULL,NA,NULL,Current
+154,NULL,Lock Washer 11,NULL,6/1/1998,NULL,NA,NULL,Current
+155,NULL,Metal Angle,NULL,6/1/1998,NULL,NA,NULL,Current
+156,NULL,Metal Bar 1,NULL,6/1/1998,NULL,NA,NULL,Current
+157,NULL,Metal Bar 2,NULL,6/1/1998,NULL,NA,NULL,Current
+158,NULL,Metal Plate 2,NULL,6/1/1998,NULL,NA,NULL,Current
+159,NULL,Metal Plate 1,NULL,6/1/1998,NULL,NA,NULL,Current
+160,NULL,Metal Plate 3,NULL,6/1/1998,NULL,NA,NULL,Current
+161,NULL,Metal Sheet 2,NULL,6/1/1998,NULL,NA,NULL,Current
+162,NULL,Metal Sheet 3,NULL,6/1/1998,NULL,NA,NULL,Current
+163,NULL,Metal Sheet 7,NULL,6/1/1998,NULL,NA,NULL,Current
+164,NULL,Metal Sheet 4,NULL,6/1/1998,NULL,NA,NULL,Current
+165,NULL,Metal Sheet 5,NULL,6/1/1998,NULL,NA,NULL,Current
+166,NULL,Metal Sheet 6,NULL,6/1/1998,NULL,NA,NULL,Current
+167,NULL,Metal Sheet 1,NULL,6/1/1998,NULL,NA,NULL,Current
+168,NULL,Metal Tread Plate,NULL,6/1/1998,NULL,NA,NULL,Current
+169,NULL,LL Nipple,NULL,6/1/1998,NULL,NA,NULL,Current
+170,NULL,HL Nipple,NULL,6/1/1998,NULL,NA,NULL,Current
+171,NULL,Paint - Black,NULL,6/1/1998,NULL,NA,NULL,Current
+172,NULL,Paint - Red,NULL,6/1/1998,NULL,NA,NULL,Current
+173,NULL,Paint - Silver,NULL,6/1/1998,NULL,NA,NULL,Current
+174,NULL,Paint - Blue,NULL,6/1/1998,NULL,NA,NULL,Current
+175,NULL,Paint - Yellow,NULL,6/1/1998,NULL,NA,NULL,Current
+176,NULL,Pinch Bolt,NULL,6/1/1998,NULL,NA,NULL,Current
+177,NULL,Cup-Shaped Race,NULL,6/1/1998,NULL,NA,NULL,Current
+178,NULL,Cone-Shaped Race,NULL,6/1/1998,NULL,NA,NULL,Current
+179,NULL,Reflector,NULL,6/1/1998,NULL,NA,NULL,Current
+180,NULL,LL Mountain Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+181,NULL,ML Mountain Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+182,NULL,HL Mountain Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+183,NULL,LL Road Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+184,NULL,ML Road Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+185,NULL,HL Road Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+186,NULL,Touring Rim,NULL,6/1/1998,NULL,NA,NULL,Current
+187,NULL,LL Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+188,NULL,ML Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+189,NULL,HL Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+190,NULL,LL Road Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+191,NULL,ML Road Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+192,NULL,HL Road Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+193,NULL,LL Touring Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+194,NULL,ML Touring Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+195,NULL,HL Touring Seat Assembly,NULL,6/1/1998,NULL,NA,NULL,Current
+196,NULL,LL Spindle/Axle,NULL,6/1/1998,NULL,NA,NULL,Current
+197,NULL,HL Spindle/Axle,NULL,6/1/1998,NULL,NA,NULL,Current
+198,NULL,LL Shell,NULL,6/1/1998,NULL,NA,NULL,Current
+199,NULL,HL Shell,NULL,6/1/1998,NULL,NA,NULL,Current
+200,NULL,Spokes,NULL,6/1/1998,NULL,NA,NULL,Current
+201,NULL,Seat Lug,NULL,6/1/1998,NULL,NA,NULL,Current
+202,NULL,Stem,NULL,6/1/1998,NULL,NA,NULL,Current
+203,NULL,Seat Post,NULL,6/1/1998,NULL,NA,NULL,Current
+204,NULL,Steerer,NULL,6/1/1998,NULL,NA,NULL,Current
+205,NULL,Seat Stays,NULL,6/1/1998,NULL,NA,NULL,Current
+206,NULL,Seat Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+207,NULL,Top Tube,NULL,6/1/1998,NULL,NA,NULL,Current
+208,NULL,Tension Pulley,NULL,6/1/1998,NULL,NA,NULL,Current
+209,NULL,Rear Derailleur Cage,NULL,6/1/1998,NULL,Silver,NULL,Current
+210,14,"HL Road Frame - Black, 58",NULL,6/1/1998,NULL,Black,58,Current
+211,14,"HL Road Frame - Red, 58",NULL,6/1/1998,NULL,Red,58,Current
+212,31,"Sport-100 Helmet, Red",$33.64 ,7/1/2005,30-Jun-02,Red,NULL,NULL
+213,31,"Sport-100 Helmet, Red",$33.64 ,7/1/2006,30-Jun-03,Red,NULL,NULL
+214,31,"Sport-100 Helmet, Red",$34.99 ,7/1/2007,NULL,Red,NULL,Current
+215,31,"Sport-100 Helmet, Black",$33.64 ,7/1/2005,30-Jun-02,Black,NULL,NULL
+216,31,"Sport-100 Helmet, Black",$33.64 ,7/1/2006,30-Jun-03,Black,NULL,NULL
+217,31,"Sport-100 Helmet, Black",$34.99 ,7/1/2007,NULL,Black,NULL,Current
+218,23,"Mountain Bike Socks, M",$9.50 ,7/1/2005,30-Jun-02,White,M,NULL
+219,23,"Mountain Bike Socks, L",$9.50 ,7/1/2005,30-Jun-02,White,L,NULL
+220,31,"Sport-100 Helmet, Blue",$33.64 ,7/1/2005,30-Jun-02,Blue,NULL,NULL
+221,31,"Sport-100 Helmet, Blue",$33.64 ,7/1/2006,30-Jun-03,Blue,NULL,NULL
+222,31,"Sport-100 Helmet, Blue",$34.99 ,7/1/2007,NULL,Blue,NULL,Current
+223,19,AWC Logo Cap,$8.64 ,7/1/2005,30-Jun-02,Multi,NULL,NULL
+224,19,AWC Logo Cap,$8.64 ,7/1/2006,30-Jun-03,Multi,NULL,NULL
+225,19,AWC Logo Cap,$8.99 ,7/1/2007,NULL,Multi,NULL,Current
+226,21,"Long-Sleeve Logo Jersey, S",$48.07 ,7/1/2005,30-Jun-02,Multi,S,NULL
+227,21,"Long-Sleeve Logo Jersey, S",$48.07 ,7/1/2006,30-Jun-03,Multi,S,NULL
+228,21,"Long-Sleeve Logo Jersey, S",$49.99 ,7/1/2007,NULL,Multi,S,Current
+229,21,"Long-Sleeve Logo Jersey, M",$48.07 ,7/1/2005,30-Jun-02,Multi,M,NULL
+230,21,"Long-Sleeve Logo Jersey, M",$48.07 ,7/1/2006,30-Jun-03,Multi,M,NULL
+231,21,"Long-Sleeve Logo Jersey, M",$49.99 ,7/1/2007,NULL,Multi,M,Current
+232,21,"Long-Sleeve Logo Jersey, L",$48.07 ,7/1/2005,30-Jun-02,Multi,L,NULL
+233,21,"Long-Sleeve Logo Jersey, L",$48.07 ,7/1/2006,30-Jun-03,Multi,L,NULL
+234,21,"Long-Sleeve Logo Jersey, L",$49.99 ,7/1/2007,NULL,Multi,L,Current
+235,21,"Long-Sleeve Logo Jersey, XL",$48.07 ,7/1/2005,30-Jun-02,Multi,XL,NULL
+236,21,"Long-Sleeve Logo Jersey, XL",$48.07 ,7/1/2006,30-Jun-03,Multi,XL,NULL
+237,21,"Long-Sleeve Logo Jersey, XL",$49.99 ,7/1/2007,NULL,Multi,XL,Current
+238,14,"HL Road Frame - Red, 62","$1,263.46 ",7/1/2005,30-Jun-02,Red,62,NULL
+239,14,"HL Road Frame - Red, 62","$1,301.36 ",7/1/2006,30-Jun-03,Red,62,NULL
+240,14,"HL Road Frame - Red, 62","$1,431.50 ",7/1/2007,NULL,Red,62,Current
+241,14,"HL Road Frame - Red, 44","$1,263.46 ",7/1/2005,30-Jun-02,Red,44,NULL
+242,14,"HL Road Frame - Red, 44","$1,301.36 ",7/1/2006,30-Jun-03,Red,44,NULL
+243,14,"HL Road Frame - Red, 44","$1,431.50 ",7/1/2007,NULL,Red,44,Current
+244,14,"HL Road Frame - Red, 48","$1,263.46 ",7/1/2005,30-Jun-02,Red,48,NULL
+245,14,"HL Road Frame - Red, 48","$1,301.36 ",7/1/2006,30-Jun-03,Red,48,NULL
+246,14,"HL Road Frame - Red, 48","$1,431.50 ",7/1/2007,NULL,Red,48,Current
+247,14,"HL Road Frame - Red, 52","$1,263.46 ",7/1/2005,30-Jun-02,Red,52,NULL
+248,14,"HL Road Frame - Red, 52","$1,301.36 ",7/1/2006,30-Jun-03,Red,52,NULL
+249,14,"HL Road Frame - Red, 52","$1,431.50 ",7/1/2007,NULL,Red,52,Current
+250,14,"HL Road Frame - Red, 56","$1,263.46 ",7/1/2005,30-Jun-02,Red,56,NULL
+251,14,"HL Road Frame - Red, 56","$1,301.36 ",7/1/2006,30-Jun-03,Red,56,NULL
+252,14,"HL Road Frame - Red, 56","$1,431.50 ",7/1/2007,NULL,Red,56,Current
+253,14,"LL Road Frame - Black, 58",$297.63 ,7/1/2005,30-Jun-02,Black,58,NULL
+254,14,"LL Road Frame - Black, 58",$306.56 ,7/1/2006,30-Jun-03,Black,58,NULL
+255,14,"LL Road Frame - Black, 58",$337.22 ,7/1/2007,NULL,Black,58,Current
+256,14,"LL Road Frame - Black, 60",$297.63 ,7/1/2005,30-Jun-02,Black,60,NULL
+257,14,"LL Road Frame - Black, 60",$306.56 ,7/1/2006,30-Jun-03,Black,60,NULL
+258,14,"LL Road Frame - Black, 60",$337.22 ,7/1/2007,NULL,Black,60,Current
+259,14,"LL Road Frame - Black, 62",$297.63 ,7/1/2005,30-Jun-02,Black,62,NULL
+260,14,"LL Road Frame - Black, 62",$306.56 ,7/1/2006,30-Jun-03,Black,62,NULL
+261,14,"LL Road Frame - Black, 62",$337.22 ,7/1/2007,NULL,Black,62,Current
+262,14,"LL Road Frame - Red, 44",$306.56 ,7/1/2005,30-Jun-02,Red,44,NULL
+263,14,"LL Road Frame - Red, 44",$337.22 ,7/1/2006,30-Jun-03,Red,44,NULL
+264,14,"LL Road Frame - Red, 48",$306.56 ,7/1/2005,30-Jun-02,Red,48,NULL
+265,14,"LL Road Frame - Red, 48",$337.22 ,7/1/2006,30-Jun-03,Red,48,NULL
+266,14,"LL Road Frame - Red, 52",$306.56 ,7/1/2005,30-Jun-02,Red,52,NULL
+267,14,"LL Road Frame - Red, 52",$337.22 ,7/1/2006,30-Jun-03,Red,52,NULL
+268,14,"LL Road Frame - Red, 58",$306.56 ,7/1/2005,30-Jun-02,Red,58,NULL
+269,14,"LL Road Frame - Red, 58",$337.22 ,7/1/2006,30-Jun-03,Red,58,NULL
+270,14,"LL Road Frame - Red, 60",$306.56 ,7/1/2005,30-Jun-02,Red,60,NULL
+271,14,"LL Road Frame - Red, 60",$337.22 ,7/1/2006,30-Jun-03,Red,60,NULL
+272,14,"LL Road Frame - Red, 62",$306.56 ,7/1/2005,30-Jun-02,Red,62,NULL
+273,14,"LL Road Frame - Red, 62",$337.22 ,7/1/2006,30-Jun-03,Red,62,NULL
+274,14,"ML Road Frame - Red, 44",$594.83 ,7/1/2005,30-Jun-02,Red,44,NULL
+275,14,"ML Road Frame - Red, 48",$594.83 ,7/1/2005,30-Jun-02,Red,48,NULL
+276,14,"ML Road Frame - Red, 52",$594.83 ,7/1/2005,30-Jun-02,Red,52,NULL
+277,14,"ML Road Frame - Red, 58",$594.83 ,7/1/2005,30-Jun-02,Red,58,NULL
+278,14,"ML Road Frame - Red, 60",$594.83 ,7/1/2005,30-Jun-02,Red,60,NULL
+279,14,"LL Road Frame - Black, 44",$297.63 ,7/1/2005,30-Jun-02,Black,44,NULL
+280,14,"LL Road Frame - Black, 44",$306.56 ,7/1/2006,30-Jun-03,Black,44,NULL
+281,14,"LL Road Frame - Black, 44",$337.22 ,7/1/2007,NULL,Black,44,Current
+282,14,"LL Road Frame - Black, 48",$297.63 ,7/1/2005,30-Jun-02,Black,48,NULL
+283,14,"LL Road Frame - Black, 48",$306.56 ,7/1/2006,30-Jun-03,Black,48,NULL
+284,14,"LL Road Frame - Black, 48",$337.22 ,7/1/2007,NULL,Black,48,Current
+285,14,"LL Road Frame - Black, 52",$297.63 ,7/1/2005,30-Jun-02,Black,52,NULL
+286,14,"LL Road Frame - Black, 52",$306.56 ,7/1/2006,30-Jun-03,Black,52,NULL
+287,14,"LL Road Frame - Black, 52",$337.22 ,7/1/2007,NULL,Black,52,Current
+288,12,"HL Mountain Frame - Silver, 42","$1,204.32 ",7/1/2005,30-Jun-02,Silver,42,NULL
+289,12,"HL Mountain Frame - Silver, 42","$1,240.45 ",7/1/2006,30-Jun-03,Silver,42,NULL
+290,12,"HL Mountain Frame - Silver, 42","$1,364.50 ",7/1/2007,NULL,Silver,42,Current
+291,12,"HL Mountain Frame - Silver, 44","$1,364.50 ",7/1/2005,30-Jun-02,Silver,44,NULL
+292,12,"HL Mountain Frame - Silver, 48","$1,364.50 ",7/1/2005,30-Jun-02,Silver,48,NULL
+293,12,"HL Mountain Frame - Silver, 46","$1,204.32 ",7/1/2005,30-Jun-02,Silver,46,NULL
+294,12,"HL Mountain Frame - Silver, 46","$1,240.45 ",7/1/2006,30-Jun-03,Silver,46,NULL
+295,12,"HL Mountain Frame - Silver, 46","$1,364.50 ",7/1/2007,NULL,Silver,46,Current
+296,12,"HL Mountain Frame - Black, 42","$1,191.17 ",7/1/2005,30-Jun-02,Black,42,NULL
+297,12,"HL Mountain Frame - Black, 42","$1,226.91 ",7/1/2006,30-Jun-03,Black,42,NULL
+298,12,"HL Mountain Frame - Black, 42","$1,349.60 ",7/1/2007,NULL,Black,42,Current
+299,12,"HL Mountain Frame - Black, 44","$1,349.60 ",7/1/2005,30-Jun-02,Black,44,NULL
+300,12,"HL Mountain Frame - Black, 48","$1,349.60 ",7/1/2005,30-Jun-02,Black,48,NULL
+301,12,"HL Mountain Frame - Black, 46","$1,191.17 ",7/1/2005,30-Jun-02,Black,46,NULL
+302,12,"HL Mountain Frame - Black, 46","$1,226.91 ",7/1/2006,30-Jun-03,Black,46,NULL
+303,12,"HL Mountain Frame - Black, 46","$1,349.60 ",7/1/2007,NULL,Black,46,Current
+304,12,"HL Mountain Frame - Black, 38","$1,191.17 ",7/1/2005,30-Jun-02,Black,38,NULL
+305,12,"HL Mountain Frame - Black, 38","$1,226.91 ",7/1/2006,30-Jun-03,Black,38,NULL
+306,12,"HL Mountain Frame - Black, 38","$1,349.60 ",7/1/2007,NULL,Black,38,Current
+307,12,"HL Mountain Frame - Silver, 38","$1,204.32 ",7/1/2005,30-Jun-02,Silver,38,NULL
+308,12,"HL Mountain Frame - Silver, 38","$1,240.45 ",7/1/2006,30-Jun-03,Silver,38,NULL
+309,12,"HL Mountain Frame - Silver, 38","$1,364.50 ",7/1/2007,NULL,Silver,38,Current
+310,2,"Road-150 Red, 62","$3,578.27 ",7/1/2005,30-Jun-02,Red,62,NULL
+311,2,"Road-150 Red, 44","$3,578.27 ",7/1/2005,30-Jun-02,Red,44,NULL
+312,2,"Road-150 Red, 48","$3,578.27 ",7/1/2005,30-Jun-02,Red,48,NULL
+313,2,"Road-150 Red, 52","$3,578.27 ",7/1/2005,30-Jun-02,Red,52,NULL
+314,2,"Road-150 Red, 56","$3,578.27 ",7/1/2005,30-Jun-02,Red,56,NULL
+315,2,"Road-450 Red, 58","$1,457.99 ",7/1/2005,30-Jun-02,Red,58,NULL
+316,2,"Road-450 Red, 60","$1,457.99 ",7/1/2005,30-Jun-02,Red,60,NULL
+317,2,"Road-450 Red, 44","$1,457.99 ",7/1/2005,30-Jun-02,Red,44,NULL
+318,2,"Road-450 Red, 48","$1,457.99 ",7/1/2005,30-Jun-02,Red,48,NULL
+319,2,"Road-450 Red, 52","$1,457.99 ",7/1/2005,30-Jun-02,Red,52,NULL
+320,2,"Road-650 Red, 58",$699.10 ,7/1/2005,30-Jun-02,Red,58,NULL
+321,2,"Road-650 Red, 58",$782.99 ,7/1/2006,30-Jun-03,Red,58,NULL
+322,2,"Road-650 Red, 60",$699.10 ,7/1/2005,30-Jun-02,Red,60,NULL
+323,2,"Road-650 Red, 60",$782.99 ,7/1/2006,30-Jun-03,Red,60,NULL
+324,2,"Road-650 Red, 62",$699.10 ,7/1/2005,30-Jun-02,Red,62,NULL
+325,2,"Road-650 Red, 62",$782.99 ,7/1/2006,30-Jun-03,Red,62,NULL
+326,2,"Road-650 Red, 44",$699.10 ,7/1/2005,30-Jun-02,Red,44,NULL
+327,2,"Road-650 Red, 44",$782.99 ,7/1/2006,30-Jun-03,Red,44,NULL
+328,2,"Road-650 Red, 48",$699.10 ,7/1/2005,30-Jun-02,Red,48,NULL
+329,2,"Road-650 Red, 48",$782.99 ,7/1/2006,30-Jun-03,Red,48,NULL
+330,2,"Road-650 Red, 52",$699.10 ,7/1/2005,30-Jun-02,Red,52,NULL
+331,2,"Road-650 Red, 52",$782.99 ,7/1/2006,30-Jun-03,Red,52,NULL
+332,2,"Road-650 Black, 58",$699.10 ,7/1/2005,30-Jun-02,Black,58,NULL
+333,2,"Road-650 Black, 58",$782.99 ,7/1/2006,30-Jun-03,Black,58,NULL
+334,2,"Road-650 Black, 60",$699.10 ,7/1/2005,30-Jun-02,Black,60,NULL
+335,2,"Road-650 Black, 60",$782.99 ,7/1/2006,30-Jun-03,Black,60,NULL
+336,2,"Road-650 Black, 62",$699.10 ,7/1/2005,30-Jun-02,Black,62,NULL
+337,2,"Road-650 Black, 62",$782.99 ,7/1/2006,30-Jun-03,Black,62,NULL
+338,2,"Road-650 Black, 44",$699.10 ,7/1/2005,30-Jun-02,Black,44,NULL
+339,2,"Road-650 Black, 44",$782.99 ,7/1/2006,30-Jun-03,Black,44,NULL
+340,2,"Road-650 Black, 48",$699.10 ,7/1/2005,30-Jun-02,Black,48,NULL
+341,2,"Road-650 Black, 48",$782.99 ,7/1/2006,30-Jun-03,Black,48,NULL
+342,2,"Road-650 Black, 52",$699.10 ,7/1/2005,30-Jun-02,Black,52,NULL
+343,2,"Road-650 Black, 52",$782.99 ,7/1/2006,30-Jun-03,Black,52,NULL
+344,1,"Mountain-100 Silver, 38","$3,399.99 ",7/1/2005,30-Jun-02,Silver,38,NULL
+345,1,"Mountain-100 Silver, 42","$3,399.99 ",7/1/2005,30-Jun-02,Silver,42,NULL
+346,1,"Mountain-100 Silver, 44","$3,399.99 ",7/1/2005,30-Jun-02,Silver,44,NULL
+347,1,"Mountain-100 Silver, 48","$3,399.99 ",7/1/2005,30-Jun-02,Silver,48,NULL
+348,1,"Mountain-100 Black, 38","$3,374.99 ",7/1/2005,30-Jun-02,Black,38,NULL
+349,1,"Mountain-100 Black, 42","$3,374.99 ",7/1/2005,30-Jun-02,Black,42,NULL
+350,1,"Mountain-100 Black, 44","$3,374.99 ",7/1/2005,30-Jun-02,Black,44,NULL
+351,1,"Mountain-100 Black, 48","$3,374.99 ",7/1/2005,30-Jun-02,Black,48,NULL
+352,1,"Mountain-200 Silver, 38","$2,071.42 ",7/1/2006,30-Jun-03,Silver,38,NULL
+353,1,"Mountain-200 Silver, 38","$2,319.99 ",7/1/2007,NULL,Silver,38,Current
+354,1,"Mountain-200 Silver, 42","$2,071.42 ",7/1/2006,30-Jun-03,Silver,42,NULL
+355,1,"Mountain-200 Silver, 42","$2,319.99 ",7/1/2007,NULL,Silver,42,Current
+356,1,"Mountain-200 Silver, 46","$2,071.42 ",7/1/2006,30-Jun-03,Silver,46,NULL
+357,1,"Mountain-200 Silver, 46","$2,319.99 ",7/1/2007,NULL,Silver,46,Current
+358,1,"Mountain-200 Black, 38","$2,049.10 ",7/1/2006,30-Jun-03,Black,38,NULL
+359,1,"Mountain-200 Black, 38","$2,294.99 ",7/1/2007,NULL,Black,38,Current
+360,1,"Mountain-200 Black, 42","$2,049.10 ",7/1/2006,30-Jun-03,Black,42,NULL
+361,1,"Mountain-200 Black, 42","$2,294.99 ",7/1/2007,NULL,Black,42,Current
+362,1,"Mountain-200 Black, 46","$2,049.10 ",7/1/2006,30-Jun-03,Black,46,NULL
+363,1,"Mountain-200 Black, 46","$2,294.99 ",7/1/2007,NULL,Black,46,Current
+364,1,"Mountain-300 Black, 38","$1,079.99 ",7/1/2006,30-Jun-03,Black,38,NULL
+365,1,"Mountain-300 Black, 40","$1,079.99 ",7/1/2006,30-Jun-03,Black,40,NULL
+366,1,"Mountain-300 Black, 44","$1,079.99 ",7/1/2006,30-Jun-03,Black,44,NULL
+367,1,"Mountain-300 Black, 48","$1,079.99 ",7/1/2006,30-Jun-03,Black,48,NULL
+368,2,"Road-250 Red, 44","$2,443.35 ",7/1/2006,30-Jun-03,Red,44,NULL
+369,2,"Road-250 Red, 48","$2,443.35 ",7/1/2006,30-Jun-03,Red,48,NULL
+370,2,"Road-250 Red, 52","$2,443.35 ",7/1/2006,30-Jun-03,Red,52,NULL
+371,2,"Road-250 Red, 58","$2,181.56 ",7/1/2006,30-Jun-03,Red,58,NULL
+372,2,"Road-250 Red, 58","$2,443.35 ",7/1/2007,NULL,Red,58,Current
+373,2,"Road-250 Black, 44","$2,181.56 ",7/1/2006,30-Jun-03,Black,44,NULL
+374,2,"Road-250 Black, 44","$2,443.35 ",7/1/2007,NULL,Black,44,Current
+375,2,"Road-250 Black, 48","$2,181.56 ",7/1/2006,30-Jun-03,Black,48,NULL
+376,2,"Road-250 Black, 48","$2,443.35 ",7/1/2007,NULL,Black,48,Current
+377,2,"Road-250 Black, 52","$2,181.56 ",7/1/2006,30-Jun-03,Black,52,NULL
+378,2,"Road-250 Black, 52","$2,443.35 ",7/1/2007,NULL,Black,52,Current
+379,2,"Road-250 Black, 58","$2,181.56 ",7/1/2006,30-Jun-03,Black,58,NULL
+380,2,"Road-250 Black, 58","$2,443.35 ",7/1/2007,NULL,Black,58,Current
+381,2,"Road-550-W Yellow, 38","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,38,NULL
+382,2,"Road-550-W Yellow, 38","$1,120.49 ",7/1/2007,NULL,Yellow,38,Current
+383,2,"Road-550-W Yellow, 40","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,40,NULL
+384,2,"Road-550-W Yellow, 40","$1,120.49 ",7/1/2007,NULL,Yellow,40,Current
+385,2,"Road-550-W Yellow, 42","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,42,NULL
+386,2,"Road-550-W Yellow, 42","$1,120.49 ",7/1/2007,NULL,Yellow,42,Current
+387,2,"Road-550-W Yellow, 44","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,44,NULL
+388,2,"Road-550-W Yellow, 44","$1,120.49 ",7/1/2007,NULL,Yellow,44,Current
+389,2,"Road-550-W Yellow, 48","$1,000.44 ",7/1/2006,30-Jun-03,Yellow,48,NULL
+390,2,"Road-550-W Yellow, 48","$1,120.49 ",7/1/2007,NULL,Yellow,48,Current
+391,10,LL Fork,$148.22 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+392,10,ML Fork,$175.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+393,10,HL Fork,$229.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+394,11,LL Headset,$34.20 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+395,11,ML Headset,$102.29 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+396,11,HL Headset,$124.73 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+397,4,LL Mountain Handlebars,$40.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+398,4,LL Mountain Handlebars,$44.54 ,7/1/2007,NULL,NA,NULL,Current
+399,4,ML Mountain Handlebars,$56.29 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+400,4,ML Mountain Handlebars,$61.92 ,7/1/2007,NULL,NA,NULL,Current
+401,4,HL Mountain Handlebars,$109.34 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+402,4,HL Mountain Handlebars,$120.27 ,7/1/2007,NULL,NA,NULL,Current
+403,4,LL Road Handlebars,$40.49 ,7/1/2006,30-Jun-03,NA,NULL,NULL
+404,4,LL Road Handlebars,$44.54 ,7/1/2007,NULL,NA,NULL,Current
+1,NULL,Adjustable Race,NULL,6/1/1998,NULL,NA,,Current
+2,NULL,Bearing Ball,NULL,6/1/1998,NULL,NA,,Current
+3,NULL,BB Ball Bearing,NULL,6/1/1998,NULL,NA,,Current
+4,NULL,Headset Ball Bearings,NULL,6/1/1998,NULL,NA,,Current
+5,NULL,Blade,NULL,6/1/1998,NULL,NA,,Current
+6,NULL,LL Crankarm,NULL,6/1/1998,NULL,Black,,Current
+7,NULL,ML Crankarm,NULL,6/1/1998,NULL,Black,,Current
+8,NULL,HL Crankarm,NULL,6/1/1998,NULL,Black,,Current
+9,NULL,Chainring Bolts,NULL,6/1/1998,NULL,Silver,,Current
+10,NULL,Chainring Nut,NULL,6/1/1998,NULL,Silver,,Current
+11,NULL,Chainring,NULL,6/1/1998,NULL,Black,,Current
+12,NULL,Crown Race,NULL,6/1/1998,NULL,NA,,Current
+13,NULL,Chain Stays,NULL,6/1/1998,NULL,NA,,Current
+14,NULL,Decal 1,NULL,6/1/1998,NULL,NA,,Current
+15,NULL,Decal 2,NULL,6/1/1998,NULL,NA,,Current
+16,NULL,Down Tube,NULL,6/1/1998,NULL,NA,,Current
+17,NULL,Mountain End Caps,NULL,6/1/1998,NULL,NA,,Current
+18,NULL,Road End Caps,NULL,6/1/1998,NULL,NA,,Current
+19,NULL,Touring End Caps,NULL,6/1/1998,NULL,NA,,Current
+20,NULL,Fork End,NULL,6/1/1998,NULL,NA,,Current
+21,NULL,Freewheel,NULL,6/1/1998,NULL,Silver,,Current
+22,NULL,Flat Washer 1,NULL,6/1/1998,NULL,NA,,Current
+23,NULL,Flat Washer 6,NULL,6/1/1998,NULL,NA,,Current
+24,NULL,Flat Washer 2,NULL,6/1/1998,NULL,NA,,Current
+25,NULL,Flat Washer 9,NULL,6/1/1998,NULL,NA,,Current
+26,NULL,Flat Washer 4,NULL,6/1/1998,NULL,NA,,Current
+27,NULL,Flat Washer 3,NULL,6/1/1998,NULL,NA,,Current
+28,NULL,Flat Washer 8,NULL,6/1/1998,NULL,NA,,Current
+29,NULL,Flat Washer 5,NULL,6/1/1998,NULL,NA,,Current
+30,NULL,Flat Washer 7,NULL,6/1/1998,NULL,NA,,Current
+31,NULL,Fork Crown,NULL,6/1/1998,NULL,NA,,Current
+32,NULL,Front Derailleur Cage,NULL,6/1/1998,NULL,Silver,,Current
+33,NULL,Front Derailleur Linkage,NULL,6/1/1998,NULL,Silver,,Current
+34,NULL,Guide Pulley,NULL,6/1/1998,NULL,NA,,Current
+35,NULL,LL Grip Tape,NULL,6/1/1998,NULL,NA,,Current
+36,NULL,ML Grip Tape,NULL,6/1/1998,NULL,NA,,Current
+37,NULL,HL Grip Tape,NULL,6/1/1998,NULL,NA,,Current
+38,NULL,Thin-Jam Hex Nut 9,NULL,6/1/1998,NULL,NA,,Current
+39,NULL,Thin-Jam Hex Nut 10,NULL,6/1/1998,NULL,NA,,Current
+40,NULL,Thin-Jam Hex Nut 1,NULL,6/1/1998,NULL,NA,,Current
+41,NULL,Thin-Jam Hex Nut 2,NULL,6/1/1998,NULL,NA,,Current
+42,NULL,Thin-Jam Hex Nut 15,NULL,6/1/1998,NULL,NA,,Current
+43,NULL,Thin-Jam Hex Nut 16,NULL,6/1/1998,NULL,NA,,Current
+44,NULL,Thin-Jam Hex Nut 5,NULL,6/1/1998,NULL,NA,,Current
+45,NULL,Thin-Jam Hex Nut 6,NULL,6/1/1998,NULL,NA,,Current
+46,NULL,Thin-Jam Hex Nut 3,NULL,6/1/1998,NULL,NA,,Current
+47,NULL,Thin-Jam Hex Nut 4,NULL,6/1/1998,NULL,NA,,Current
+48,NULL,Thin-Jam Hex Nut 13,NULL,6/1/1998,NULL,NA,,Current
+49,NULL,Thin-Jam Hex Nut 14,NULL,6/1/1998,NULL,NA,,Current
+50,NULL,Thin-Jam Hex Nut 7,NULL,6/1/1998,NULL,NA,,Current
+51,NULL,Thin-Jam Hex Nut 8,NULL,6/1/1998,NULL,NA,,Current
+52,NULL,Thin-Jam Hex Nut 12,NULL,6/1/1998,NULL,NA,,Current
+53,NULL,Thin-Jam Hex Nut 11,NULL,6/1/1998,NULL,NA,,Current
+54,NULL,Hex Nut 5,NULL,6/1/1998,NULL,NA,,Current
+55,NULL,Hex Nut 6,NULL,6/1/1998,NULL,NA,,Current
+56,NULL,Hex Nut 16,NULL,6/1/1998,NULL,NA,,Current
+57,NULL,Hex Nut 17,NULL,6/1/1998,NULL,NA,,Current
+58,NULL,Hex Nut 7,NULL,6/1/1998,NULL,NA,,Current
+59,NULL,Hex Nut 8,NULL,6/1/1998,NULL,NA,,Current
+60,NULL,Hex Nut 9,NULL,6/1/1998,NULL,NA,,Current
+61,NULL,Hex Nut 22,NULL,6/1/1998,NULL,NA,,Current
+62,NULL,Hex Nut 23,NULL,6/1/1998,NULL,NA,,Current
+63,NULL,Hex Nut 12,NULL,6/1/1998,NULL,NA,,Current
+64,NULL,Hex Nut 13,NULL,6/1/1998,NULL,NA,,Current
+65,NULL,Hex Nut 1,NULL,6/1/1998,NULL,NA,,Current
+66,NULL,Hex Nut 10,NULL,6/1/1998,NULL,NA,,Current
+67,NULL,Hex Nut 11,NULL,6/1/1998,NULL,NA,,Current
+68,NULL,Hex Nut 2,NULL,6/1/1998,NULL,NA,,Current
+69,NULL,Hex Nut 20,NULL,6/1/1998,NULL,NA,,Current
+70,NULL,Hex Nut 21,NULL,6/1/1998,NULL,NA,,Current
+71,NULL,Hex Nut 3,NULL,6/1/1998,NULL,NA,,Current
+72,NULL,Hex Nut 14,NULL,6/1/1998,NULL,NA,,Current
+73,NULL,Hex Nut 15,NULL,6/1/1998,NULL,NA,,Current
+74,NULL,Hex Nut 4,NULL,6/1/1998,NULL,NA,,Current
+75,NULL,Hex Nut 18,NULL,6/1/1998,NULL,NA,,Current
+76,NULL,Hex Nut 19,NULL,6/1/1998,NULL,NA,,Current
+77,NULL,Handlebar Tube,NULL,6/1/1998,NULL,NA,,Current
+78,NULL,Head Tube,NULL,6/1/1998,NULL,NA,,Current
+79,NULL,LL Hub,NULL,6/1/1998,NULL,NA,,Current
+80,NULL,HL Hub,NULL,6/1/1998,NULL,NA,,Current
+81,NULL,Keyed Washer,NULL,6/1/1998,NULL,NA,,Current
+82,NULL,External Lock Washer 3,NULL,6/1/1998,NULL,NA,,Current
+83,NULL,External Lock Washer 4,NULL,6/1/1998,NULL,NA,,Current
+84,NULL,External Lock Washer 9,NULL,6/1/1998,NULL,NA,,Current
+85,NULL,External Lock Washer 5,NULL,6/1/1998,NULL,NA,,Current
+86,NULL,External Lock Washer 7,NULL,6/1/1998,NULL,NA,,Current
+87,NULL,External Lock Washer 6,NULL,6/1/1998,NULL,NA,,Current
+88,NULL,External Lock Washer 1,NULL,6/1/1998,NULL,NA,,Current
+89,NULL,External Lock Washer 8,NULL,6/1/1998,NULL,NA,,Current
+90,NULL,External Lock Washer 2,NULL,6/1/1998,NULL,NA,,Current
+91,NULL,Internal Lock Washer 3,NULL,6/1/1998,NULL,NA,,Current
+92,NULL,Internal Lock Washer 4,NULL,6/1/1998,NULL,NA,,Current
+93,NULL,Internal Lock Washer 9,NULL,6/1/1998,NULL,NA,,Current
+94,NULL,Internal Lock Washer 5,NULL,6/1/1998,NULL,NA,,Current
+95,NULL,Internal Lock Washer 7,NULL,6/1/1998,NULL,NA,,Current
+96,NULL,Internal Lock Washer 6,NULL,6/1/1998,NULL,NA,,Current
+97,NULL,Internal Lock Washer 10,NULL,6/1/1998,NULL,NA,,Current
+98,NULL,Internal Lock Washer 1,NULL,6/1/1998,NULL,NA,,Current
+99,NULL,Internal Lock Washer 8,NULL,6/1/1998,NULL,NA,,Current
+100,NULL,Internal Lock Washer 2,NULL,6/1/1998,NULL,NA,,Current
+101,NULL,Thin-Jam Lock Nut 9,NULL,6/1/1998,NULL,NA,,Current
+102,NULL,Thin-Jam Lock Nut 10,NULL,6/1/1998,NULL,NA,,Current
+103,NULL,Thin-Jam Lock Nut 1,NULL,6/1/1998,NULL,NA,,Current
+104,NULL,Thin-Jam Lock Nut 2,NULL,6/1/1998,NULL,NA,,Current
+105,NULL,Thin-Jam Lock Nut 15,NULL,6/1/1998,NULL,NA,,Current
+106,NULL,Thin-Jam Lock Nut 16,NULL,6/1/1998,NULL,NA,,Current
+107,NULL,Thin-Jam Lock Nut 5,NULL,6/1/1998,NULL,NA,,Current
+108,NULL,Thin-Jam Lock Nut 6,NULL,6/1/1998,NULL,NA,,Current
+109,NULL,Thin-Jam Lock Nut 3,NULL,6/1/1998,NULL,NA,,Current
+110,NULL,Thin-Jam Lock Nut 4,NULL,6/1/1998,NULL,NA,,Current
+111,NULL,Thin-Jam Lock Nut 13,NULL,6/1/1998,NULL,NA,,Current
+112,NULL,Thin-Jam Lock Nut 14,NULL,6/1/1998,NULL,NA,,Current
+113,NULL,Thin-Jam Lock Nut 7,NULL,6/1/1998,NULL,NA,,Current
+114,NULL,Thin-Jam Lock Nut 8,NULL,6/1/1998,NULL,NA,,Current
+115,NULL,Thin-Jam Lock Nut 12,NULL,6/1/1998,NULL,NA,,Current
+116,NULL,Thin-Jam Lock Nut 11,NULL,6/1/1998,NULL,NA,,Current
+117,NULL,Lock Nut 5,NULL,6/1/1998,NULL,NA,,Current
+118,NULL,Lock Nut 6,NULL,6/1/1998,NULL,NA,,Current
+119,NULL,Lock Nut 16,NULL,6/1/1998,NULL,NA,,Current
+120,NULL,Lock Nut 17,NULL,6/1/1998,NULL,NA,,Current
+121,NULL,Lock Nut 7,NULL,6/1/1998,NULL,NA,,Current
+122,NULL,Lock Nut 8,NULL,6/1/1998,NULL,NA,,Current
+123,NULL,Lock Nut 9,NULL,6/1/1998,NULL,NA,,Current
+124,NULL,Lock Nut 22,NULL,6/1/1998,NULL,NA,,Current
+125,NULL,Lock Nut 23,NULL,6/1/1998,NULL,NA,,Current
+126,NULL,Lock Nut 12,NULL,6/1/1998,NULL,NA,,Current
+127,NULL,Lock Nut 13,NULL,6/1/1998,NULL,NA,,Current
+128,NULL,Lock Nut 1,NULL,6/1/1998,NULL,NA,,Current
+129,NULL,Lock Nut 10,NULL,6/1/1998,NULL,NA,,Current
+130,NULL,Lock Nut 11,NULL,6/1/1998,NULL,NA,,Current
+131,NULL,Lock Nut 2,NULL,6/1/1998,NULL,NA,,Current
+132,NULL,Lock Nut 20,NULL,6/1/1998,NULL,NA,,Current
+133,NULL,Lock Nut 21,NULL,6/1/1998,NULL,NA,,Current
+134,NULL,Lock Nut 3,NULL,6/1/1998,NULL,NA,,Current
+135,NULL,Lock Nut 14,NULL,6/1/1998,NULL,NA,,Current
+136,NULL,Lock Nut 15,NULL,6/1/1998,NULL,NA,,Current
+137,NULL,Lock Nut 4,NULL,6/1/1998,NULL,NA,,Current
+138,NULL,Lock Nut 19,NULL,6/1/1998,NULL,NA,,Current
+139,NULL,Lock Nut 18,NULL,6/1/1998,NULL,NA,,Current
+140,NULL,Lock Ring,NULL,6/1/1998,NULL,Silver,,Current
+141,NULL,Lower Head Race,NULL,6/1/1998,NULL,NA,,Current
+142,NULL,Lock Washer 4,NULL,6/1/1998,NULL,NA,,Current
+143,NULL,Lock Washer 5,NULL,6/1/1998,NULL,NA,,Current
+144,NULL,Lock Washer 10,NULL,6/1/1998,NULL,NA,,Current
+145,NULL,Lock Washer 6,NULL,6/1/1998,NULL,NA,,Current
+146,NULL,Lock Washer 13,NULL,6/1/1998,NULL,NA,,Current
+147,NULL,Lock Washer 8,NULL,6/1/1998,NULL,NA,,Current
+148,NULL,Lock Washer 1,NULL,6/1/1998,NULL,NA,,Current
+149,NULL,Lock Washer 7,NULL,6/1/1998,NULL,NA,,Current
+150,NULL,Lock Washer 12,NULL,6/1/1998,NULL,NA,,Current
+151,NULL,Lock Washer 2,NULL,6/1/1998,NULL,NA,,Current
+152,NULL,Lock Washer 9,NULL,6/1/1998,NULL,NA,,Current
+153,NULL,Lock Washer 3,NULL,6/1/1998,NULL,NA,,Current
+154,NULL,Lock Washer 11,NULL,6/1/1998,NULL,NA,,Current
+155,NULL,Metal Angle,NULL,6/1/1998,NULL,NA,,Current
+156,NULL,Metal Bar 1,NULL,6/1/1998,NULL,NA,,Current
+157,NULL,Metal Bar 2,NULL,6/1/1998,NULL,NA,,Current
+158,NULL,Metal Plate 2,NULL,6/1/1998,NULL,NA,,Current
+159,NULL,Metal Plate 1,NULL,6/1/1998,NULL,NA,,Current
+160,NULL,Metal Plate 3,NULL,6/1/1998,NULL,NA,,Current
+161,NULL,Metal Sheet 2,NULL,6/1/1998,NULL,NA,,Current
+162,NULL,Metal Sheet 3,NULL,6/1/1998,NULL,NA,,Current
+163,NULL,Metal Sheet 7,NULL,6/1/1998,NULL,NA,,Current
+164,NULL,Metal Sheet 4,NULL,6/1/1998,NULL,NA,,Current
+165,NULL,Metal Sheet 5,NULL,6/1/1998,NULL,NA,,Current
+166,NULL,Metal Sheet 6,NULL,6/1/1998,NULL,NA,,Current
+167,NULL,Metal Sheet 1,NULL,6/1/1998,NULL,NA,,Current
+168,NULL,Metal Tread Plate,NULL,6/1/1998,NULL,NA,,Current
+169,NULL,LL Nipple,NULL,6/1/1998,NULL,NA,,Current
+170,NULL,HL Nipple,NULL,6/1/1998,NULL,NA,,Current
+171,NULL,Paint - Black,NULL,6/1/1998,NULL,NA,,Current
+172,NULL,Paint - Red,NULL,6/1/1998,NULL,NA,,Current
+173,NULL,Paint - Silver,NULL,6/1/1998,NULL,NA,,Current
+174,NULL,Paint - Blue,NULL,6/1/1998,NULL,NA,,Current
+175,NULL,Paint - Yellow,NULL,6/1/1998,NULL,NA,,Current
+176,NULL,Pinch Bolt,NULL,6/1/1998,NULL,NA,,Current
+177,NULL,Cup-Shaped Race,NULL,6/1/1998,NULL,NA,,Current
+178,NULL,Cone-Shaped Race,NULL,6/1/1998,NULL,NA,,Current
+179,NULL,Reflector,NULL,6/1/1998,NULL,NA,,Current
+180,NULL,LL Mountain Rim,NULL,6/1/1998,NULL,NA,,Current
+181,NULL,ML Mountain Rim,NULL,6/1/1998,NULL,NA,,Current
+182,NULL,HL Mountain Rim,NULL,6/1/1998,NULL,NA,,Current
+183,NULL,LL Road Rim,NULL,6/1/1998,NULL,NA,,Current
+184,NULL,ML Road Rim,NULL,6/1/1998,NULL,NA,,Current
+185,NULL,HL Road Rim,NULL,6/1/1998,NULL,NA,,Current
+186,NULL,Touring Rim,NULL,6/1/1998,NULL,NA,,Current
+187,NULL,LL Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+188,NULL,ML Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+189,NULL,HL Mountain Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+190,NULL,LL Road Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+191,NULL,ML Road Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+192,NULL,HL Road Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+193,NULL,LL Touring Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+194,NULL,ML Touring Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+195,NULL,HL Touring Seat Assembly,NULL,6/1/1998,NULL,NA,,Current
+196,NULL,LL Spindle/Axle,NULL,6/1/1998,NULL,NA,,Current
+197,NULL,HL Spindle/Axle,NULL,6/1/1998,NULL,NA,,Current
+198,NULL,LL Shell,NULL,6/1/1998,NULL,NA,,Current
+199,NULL,HL Shell,NULL,6/1/1998,NULL,NA,,Current
+200,NULL,Spokes,NULL,6/1/1998,NULL,NA,,Current
+201,NULL,Seat Lug,NULL,6/1/1998,NULL,NA,,Current
+202,NULL,Stem,NULL,6/1/1998,NULL,NA,,Current
